@@ -13,7 +13,7 @@
 customised class to be injected</li>
 <li>Only labels for HiddenLayer0     are    generated</li>
 </ul>
-<h1 id="general-approach">General Approach</h1>
+<h1 id="objective">Objective</h1>
 <p>Given most classifiers feature columns are one-hot category vectors, buckets and numeric columns, we have built an automatic tsv generator that</p>
 <ol>
 <li>Hooks into DNNClassifer using SessionRunHook</li>
@@ -25,9 +25,20 @@ a. Creates a    label based on categorical_colunn definition</li>
 <h2 id="data">Data</h2>
 <p>The data used is from the “Mental Health in Tech Survey” dataset in Kaggle,  The train and test sets are in the data sub directory</p>
 <h2 id="mhc.dnn.py"><a href="http://MHC.DNN.py">MHC.DNN.py</a></h2>
-<p>Main code for training the classifier.  Standard code that uses the AgileDev_AI package for the heavy lifting.</p>
+<p>This is the top level training routine and is standard implementation of a DNN Classifer with some specialized classes namely</p>
+<pre><code>feature\_column\_helper = dnn_helpers.FeatureColumnLookup()  
+</code></pre>
+<p>tbhook = dnn_helpers.TBHookClass(feature_column_helper, LOG)</p>
 <h2 id="agile_dev_ai.dnn_helper">AGILE_DEV_AI.DNN_Helper</h2>
-<p>You can rename the current file by clicking the file name in the navigation bar or by clicking the <strong>Rename</strong> button in the file explorer.</p>
+<p>The guts of the code is here.</p>
+<pre><code>General approach is:
+ 1. Hooks into DNNClassifer using SessionRunHook
+ 2. Grabs the    dnn/input_from_feature_columns/input_layer/concat:0
+   tensor
+ 3. For each    column type e.g. categorical, bucket, numeric, embedding
+	 a. Creates a    label based on categorical_colunn definition
+</code></pre>
 <h2 id="section"></h2>
-<pre><code></code></pre>
+<pre><code>
+</code></pre>
 
