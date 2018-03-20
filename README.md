@@ -8,7 +8,7 @@
 <p>One of the <strong>wow</strong> moments we get from clients is when we show the learnt embeddings for hiddenlayer_0 in tensorboard with labels.  We will perform a T-SNE in front of them and the clients can see the clusters of data that the classifier is using to make it’s decisions.</p>
 <h2 id="objective">Objective</h2>
 <p>Given most classifiers feature columns are one-hot category vectors, buckets and numeric columns, we have built an automatic tsv file generator that should be generic to all dnn classifer columns.</p>
-<h1 id="limitations">Limitations</h1>
+<h2 id="limitations">Limitations</h2>
 <ul>
 <li>Hash columns aren’t handled in this codeset but would require an input<br>
 customised class to be injected into the feature_column_helper</li>
@@ -18,7 +18,7 @@ customised class to be injected into the feature_column_helper</li>
 <p>The data used is from the “Mental Health in Tech Survey” dataset in Kaggle. Based on some input features,  the classifier tries to predicts the users response to “seek treatment” in the survey.</p>
 <p>The train and test sets are in the data sub directory</p>
 <h2 id="mhc.dnn.py"><a href="http://MHC.DNN.py">MHC.DNN.py</a></h2>
-<p>This is the top level training routine and is standard implementation of a DNN Classifer with some specialized classes namely</p>
+<p>This is the top level training python file and is standard implementation of a DNN Classifer with some specialized classes namely</p>
 <pre><code>feature\_column\_helper = dnn_helpers.FeatureColumnLookup()  
 tbhook = dnn\_helpers.TBHookClass(feature\_column_helper, LOG)
 </code></pre>
