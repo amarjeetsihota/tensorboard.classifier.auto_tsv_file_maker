@@ -20,10 +20,13 @@ customised class to be injected into the feature_column_helper</li>
 <h2 id="mhc.dnn.py"><a href="http://MHC.DNN.py">MHC.DNN.py</a></h2>
 <p>This is the top level training routine and is standard implementation of a DNN Classifer with some specialized classes namely</p>
 <pre><code>feature\_column\_helper = dnn_helpers.FeatureColumnLookup()  
+tbhook = dnn\_helpers.TBHookClass(feature\_column_helper, LOG)
 </code></pre>
-<p>tbhook = dnn_helpers.TBHookClass(feature_column_helper, LOG)</p>
+<p>The code for exporting the tsv file is also here:</p>
+<pre><code>def tbexport(model, tsv\_file,  dims, start\_row\_no, tensor\_name):
+</code></pre>
 <h2 id="agile_dev_ai.dnn_helper">AGILE_DEV_AI.DNN_Helper</h2>
-<p>The guts of the code is here.</p>
+<p>The heart  of the code is here.</p>
 <pre><code>General approach is:
  1. Hooks into DNNClassifer using SessionRunHook
  2. Grabs the    dnn/input_from_feature_columns/input_layer/concat:0
