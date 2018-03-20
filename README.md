@@ -3,20 +3,20 @@
 
 ---
 
-<h1 id="autogenerate-tsv-file-for-classifier">Autogenerate TSV file for classifier</h1>
+<h1 id="autogenerate-tsv-file-for-a-dnn-classifier">Autogenerate TSV file for a DNN Classifier</h1>
 <p>We have been developing AI solutions for a four months now and have built two commercial DNN Classifiers (for stockbroking clients)</p>
 <p>One of the <strong>wow</strong> moments we get from clients is when we show the learnt embeddings for hiddenlayer_0 in tensorboard with labels.  We will perform a T-SNE in front of them and the clients can see the clusters of data that the classifier is using to make it’s decisions.</p>
-<p>This code shows how we generate the TSV code generically for any dnn classifer.</p>
+<h2 id="objective">Objective</h2>
+<p>Given most classifiers feature columns are one-hot category vectors, buckets and numeric columns, we have built an automatic tsv file generator that should be generic to all dnn classifer columns.</p>
 <h1 id="limitations">Limitations</h1>
 <ul>
-<li>Hash columns aren’t handled but would probably require an input<br>
-customised class to be injected</li>
+<li>Hash columns aren’t handled in this codeset but would require an input<br>
+customised class to be injected into the feature_column_helper</li>
 <li>Only labels for HiddenLayer0     are    generated</li>
 </ul>
-<h1 id="objective">Objective</h1>
-<p>Given most classifiers feature columns are one-hot category vectors, buckets and numeric columns, we have built an automatic tsv generator that</p>
 <h2 id="data">Data</h2>
-<p>The data used is from the “Mental Health in Tech Survey” dataset in Kaggle,  The train and test sets are in the data sub directory</p>
+<p>The data used is from the “Mental Health in Tech Survey” dataset in Kaggle. Based on some input features,  the classifier tries to predicts the users response to “seek treatment” in the survey.</p>
+<p>The train and test sets are in the data sub directory</p>
 <h2 id="mhc.dnn.py"><a href="http://MHC.DNN.py">MHC.DNN.py</a></h2>
 <p>This is the top level training routine and is standard implementation of a DNN Classifer with some specialized classes namely</p>
 <pre><code>feature\_column\_helper = dnn_helpers.FeatureColumnLookup()  
@@ -31,4 +31,6 @@ customised class to be injected</li>
  3. For each    column type e.g. categorical, bucket, numeric, embedding
 	 a. Creates a    label based on categorical_colunn definition
 </code></pre>
+<h2 id="results">Results</h2>
+<p>The classifier gives an accuracy of 76%.</p>
 
