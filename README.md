@@ -15,13 +15,6 @@ customised class to be injected</li>
 </ul>
 <h1 id="objective">Objective</h1>
 <p>Given most classifiers feature columns are one-hot category vectors, buckets and numeric columns, we have built an automatic tsv generator that</p>
-<ol>
-<li>Hooks into DNNClassifer using SessionRunHook</li>
-<li>Grabs the    dnn/input_from_feature_columns/input_layer/concat:0<br>
-tensor</li>
-<li>For each    column type e.g. categorical, bucket, numeric, embedding<br>
-a. Creates a    label based on categorical_colunn definition</li>
-</ol>
 <h2 id="data">Data</h2>
 <p>The data used is from the “Mental Health in Tech Survey” dataset in Kaggle,  The train and test sets are in the data sub directory</p>
 <h2 id="mhc.dnn.py"><a href="http://MHC.DNN.py">MHC.DNN.py</a></h2>
@@ -37,8 +30,5 @@ a. Creates a    label based on categorical_colunn definition</li>
    tensor
  3. For each    column type e.g. categorical, bucket, numeric, embedding
 	 a. Creates a    label based on categorical_colunn definition
-</code></pre>
-<h2 id="section"></h2>
-<pre><code>
 </code></pre>
 
