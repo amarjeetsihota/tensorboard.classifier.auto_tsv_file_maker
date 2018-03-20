@@ -1,0 +1,1001 @@
+Age,Gender,Country,state,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,treatment
+37,Female,United States,IL,NA,No,Often,6to26,No,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+44,Male,United States,IN,NA,No,Rarely,MoreThan1000,No,No,NA,No,NA,NA,NA,NA,Maybe,No,No,No,No,No,NA,No,0
+32,Male,Canada,NA,NA,No,Rarely,6to26,No,Yes,No,No,No,No,NA,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No,0
+31,Male,United Kingdom,NA,NA,Yes,Often,26to100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,1
+31,Male,United States,TX,NA,No,Never,100to500,Yes,Yes,Yes,No,NA,NA,NA,NA,No,No,Some of them,Yes,Yes,Yes,NA,No,0
+33,Male,United States,TN,NA,Yes,Sometimes,6to26,No,Yes,Yes,Not sure,No,NA,NA,NA,No,No,Yes,Yes,No,Maybe,NA,No,0
+35,Female,United States,MI,NA,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,NA,No,1
+39,Male,Canada,NA,NA,No,Never,1to5,Yes,Yes,No,Yes,No,No,Yes,NA,No,No,No,No,No,No,No,No,0
+42,Female,United States,IL,NA,Yes,Sometimes,100to500,No,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,1
+23,Male,Canada,NA,NA,No,Never,26to100,No,Yes,NA,No,NA,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+31,Male,United States,OH,NA,No,Sometimes,6to26,Yes,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,No,No,NA,No,1
+29,Male,Bulgaria,NA,NA,No,Never,100to500,Yes,Yes,NA,Not sure,No,No,NA,NA,No,No,Yes,Yes,Yes,Yes,NA,No,0
+42,Female,United States,CA,NA,Yes,Sometimes,26to100,No,No,Yes,Yes,No,No,NA,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,1
+36,Male,United States,CT,NA,Yes,Never,500to1000,No,Yes,NA,Not sure,No,NA,NA,NA,No,No,Yes,Yes,No,No,NA,No,0
+27,Male,Canada,NA,NA,No,Never,6to26,No,Yes,NA,Not sure,NA,NA,NA,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,0
+29,Female,United States,IL,NA,Yes,Rarely,26to100,No,Yes,Yes,Not sure,No,No,NA,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,NA,No,1
+23,Male,United Kingdom,NA,NA,No,Sometimes,26to100,Yes,Yes,NA,No,NA,NA,NA,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No,1
+32,Male,United States,TN,NA,No,Sometimes,6to26,No,Yes,Yes,Yes,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,No,No,No,1
+46,Male,United States,MD,Yes,Yes,Sometimes,1to5,Yes,Yes,Yes,Not sure,Yes,NA,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,0
+36,Male,France,NA,Yes,Yes,NA,6to26,Yes,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+29,Male,United States,NY,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,1
+31,Male,United States,NC,Yes,No,Never,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,0
+46,Male,United States,MA,No,No,Often,26to100,Yes,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,No,No,1
+41,Male,United States,IA,No,No,Never,MoreThan1000,No,No,NA,No,No,NA,NA,NA,Maybe,No,No,No,No,Yes,NA,No,1
+33,Male,United States,CA,No,Yes,Rarely,26to100,No,Yes,Yes,Not sure,NA,Yes,Yes,NA,No,No,Yes,Yes,No,Yes,NA,No,1
+35,Male,United States,TN,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,No,NA,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,1
+33,Male,United States,TN,No,No,NA,1to5,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,No,No,No,NA,No,0
+35,Female,United States,CA,No,Yes,Rarely,6to26,Yes,Yes,Yes,Yes,NA,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+34,Male,United States,OH,No,No,Sometimes,26to100,Yes,Yes,NA,Not sure,No,NA,NA,Somewhat difficult,No,No,Some of them,No,No,No,No,No,1
+37,Male,United Kingdom,NA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,NA,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,0
+32,Male,United Kingdom,NA,No,No,Never,6to26,Yes,Yes,No,No,No,No,NA,NA,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,0
+31,Male,United States,PA,Yes,Yes,Rarely,1to5,Yes,Yes,No,Yes,No,No,NA,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,0
+30,Male,United Kingdom,NA,No,Yes,Sometimes,500to1000,Yes,Yes,NA,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,NA,No,1
+42,Male,United States,WA,No,Yes,Sometimes,26to100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,NA,No,1
+40,Female,United States,WI,No,No,Sometimes,1to5,No,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,Yes,No,1
+27,Male,United States,NY,No,No,Rarely,6to26,No,Yes,No,Yes,No,No,NA,Very easy,No,No,Yes,Yes,Maybe,Maybe,NA,No,1
+29,Male,Canada,NA,No,No,Rarely,1to5,No,Yes,No,No,No,No,NA,Very easy,Yes,Maybe,Some of them,No,No,No,NA,No,0
+38,Male,Portugal,NA,No,No,NA,100to500,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,0
+50,Male,United States,IN,No,No,NA,100to500,No,Yes,Yes,Yes,No,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+35,Male,United States,TX,No,No,Rarely,MoreThan1000,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+24,Male,United Kingdom,NA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,NA,NA,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,1
+35,Male,United States,MI,No,No,NA,MoreThan1000,Yes,Yes,Yes,Not sure,NA,Yes,NA,Somewhat difficult,Yes,Yes,Some of them,No,No,Maybe,NA,No,0
+27,Male,Canada,NA,No,Yes,Sometimes,1to5,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No,1
+18,Male,Netherlands,NA,No,No,Often,6to26,No,Yes,No,Not sure,No,No,NA,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No,0
+30,Male,United States,IN,No,No,Sometimes,26to100,No,Yes,NA,No,No,No,NA,NA,No,No,No,No,No,Maybe,NA,No,1
+38,Female,United States,TX,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,1
+28,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,NA,Not sure,No,No,NA,NA,No,Maybe,Some of them,Yes,Maybe,Yes,NA,No,0
+34,Male,United States,TN,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,No,No,Yes,Yes,Maybe,Yes,NA,No,0
+26,Male,Canada,NA,Yes,No,Sometimes,1to5,No,Yes,No,Yes,Yes,No,NA,NA,No,No,Yes,Yes,No,No,Yes,No,0
+30,Male,United States,IL,No,Yes,Rarely,26to100,No,Yes,Yes,No,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,1
+22,Male,United States,TX,No,Yes,Often,6to26,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Maybe,NA,No,1
+33,Male,United States,UT,No,No,NA,100to500,Yes,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+31,Male,United States,NA,No,No,NA,100to500,Yes,Yes,NA,No,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,0
+32,Male,United States,TN,No,No,Never,1to5,Yes,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,0
+28,Male,Switzerland,NA,No,No,NA,100to500,No,Yes,No,No,No,No,NA,NA,No,No,No,No,No,Maybe,NA,No,0
+27,None,United States,NY,No,Yes,Rarely,26to100,No,Yes,Yes,Yes,No,No,Yes,NA,Maybe,No,No,No,No,No,NA,No,1
+32,Male,United States,TN,No,Yes,NA,6to26,Yes,Yes,NA,No,No,No,NA,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,0
+24,Male,United States,NY,No,Yes,Sometimes,26to100,Yes,Yes,NA,No,No,No,NA,NA,No,Maybe,Some of them,Yes,Yes,Yes,No,No,1
+26,Male,United States,TN,No,No,NA,26to100,No,No,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,NA,No,0
+33,Male,Canada,NA,No,Yes,Often,6to26,Yes,Yes,NA,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,NA,No,1
+44,Male,United States,IA,No,Yes,Sometimes,MoreThan1000,No,No,Yes,No,No,NA,NA,NA,Yes,Maybe,Some of them,No,No,Maybe,NA,Yes,1
+26,Female,Poland,NA,No,No,Sometimes,26to100,Yes,Yes,NA,Not sure,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,1
+27,Male,United Kingdom,NA,No,No,Never,100to500,No,Yes,Yes,Not sure,No,Yes,NA,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+26,Male,France,NA,No,No,NA,26to100,No,Yes,No,No,No,No,NA,Very easy,Yes,No,No,No,No,No,No,Yes,0
+35,Male,Canada,NA,No,No,Sometimes,6to26,No,Yes,NA,No,No,No,NA,Somewhat easy,No,No,Some of them,Yes,No,Maybe,NA,No,0
+40,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,Yes,Maybe,Some of them,No,No,No,No,Yes,0
+23,Female,Australia,NA,No,Yes,Often,1to5,Yes,Yes,No,Not sure,No,No,NA,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+36,Male,United States,TX,No,No,Sometimes,100to500,Yes,Yes,Yes,No,NA,Yes,NA,NA,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,0
+31,Female,United States,NM,No,No,NA,26to100,Yes,No,NA,No,NA,NA,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+34,Male,United States,NY,Yes,No,Rarely,1to5,Yes,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+28,Male,France,NA,No,No,Never,26to100,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+34,Male,Canada,NA,No,No,Never,6to26,No,Yes,NA,Not sure,NA,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+23,None,United States,MA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,0
+38,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,No,No,No,NA,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,0
+33,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,NA,Not sure,Yes,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,0
+19,Male,United Kingdom,NA,No,No,NA,1to5,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,0
+25,Male,United States,WA,No,No,NA,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,No,No,Yes,Yes,Maybe,Yes,Yes,No,0
+31,Male,United States,WA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+32,Male,United States,UT,No,Yes,Sometimes,26to100,Yes,Yes,No,No,No,No,NA,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No,1
+28,Male,Germany,NA,No,No,Never,6to26,Yes,Yes,NA,No,NA,NA,NA,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,0
+38,Male,United States,NY,No,Yes,Sometimes,100to500,Yes,Yes,Yes,Yes,No,Yes,NA,NA,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,0
+23,Male,United Kingdom,NA,No,No,Never,26to100,No,Yes,Yes,Not sure,Yes,NA,NA,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+30,Male,Canada,NA,No,No,Never,26to100,No,No,No,No,No,No,NA,NA,No,No,Some of them,Yes,No,No,No,No,0
+27,None,United States,NY,Yes,No,Often,1to5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,1
+33,Male,United States,CA,No,Yes,Never,MoreThan1000,No,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,Maybe,No,No,0
+31,Male,United States,TX,No,No,NA,26to100,No,Yes,NA,Not sure,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,No,No,0
+39,Male,United Kingdom,NA,Yes,No,Often,6to26,No,Yes,No,No,No,No,NA,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,1
+34,Female,United States,OR,No,Yes,Rarely,500to1000,Yes,Yes,Yes,Not sure,No,NA,NA,NA,Yes,Maybe,Some of them,Some of them,No,No,NA,No,1
+29,Female,United States,FL,No,No,Sometimes,26to100,No,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,1
+32,Male,United States,IL,No,No,NA,500to1000,No,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,0
+31,Male,United States,NY,No,No,Never,500to1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,0
+40,Male,United States,TX,No,No,Sometimes,26to100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,1
+34,Male,United States,OH,No,No,NA,26to100,No,Yes,NA,No,No,No,NA,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+18,None,Russia,NA,No,No,NA,26to100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,NA,No,0
+25,Female,Canada,NA,No,No,Sometimes,26to100,No,Yes,Yes,Yes,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,1
+29,Male,United States,MN,No,No,Never,26to100,No,Yes,NA,No,No,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,No,No,0
+24,Male,United States,MO,No,Yes,Rarely,26to100,No,Yes,NA,Not sure,No,NA,NA,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,NA,No,0
+31,Male,Mexico,NA,No,Yes,Sometimes,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Yes,No,No,1
+33,None,United States,AZ,No,No,Sometimes,6to26,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,1
+30,Male,United States,IN,No,No,Often,1to5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+26,Female,Canada,NA,No,Yes,Sometimes,26to100,No,No,No,Yes,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,1
+44,Female,United States,MA,No,No,Never,100to500,No,Yes,Yes,Not sure,NA,NA,NA,NA,Maybe,Maybe,No,Some of them,No,No,NA,No,0
+25,Male,United States,NY,No,Yes,NA,26to100,No,Yes,NA,No,NA,NA,NA,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+33,Male,United States,WI,No,Yes,Sometimes,26to100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,1
+29,Male,United States,NY,No,No,Never,MoreThan1000,No,Yes,Yes,Not sure,Yes,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+35,Male,United States,MO,No,Yes,Rarely,6to26,No,Yes,Yes,Not sure,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+35,Male,United States,OR,No,Yes,Sometimes,26to100,Yes,Yes,NA,Not sure,No,No,NA,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,1
+28,Male,Brazil,NA,No,Yes,Rarely,6to26,No,Yes,No,No,No,No,No,NA,Maybe,No,Yes,Yes,No,No,NA,Yes,1
+34,Male,United States,TN,No,Yes,Never,6to26,Yes,Yes,Yes,No,No,No,NA,NA,Maybe,No,No,No,No,No,NA,No,0
+32,Male,United States,WA,No,No,Sometimes,26to100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,1
+22,Male,United States,NY,No,No,Sometimes,500to1000,No,Yes,Yes,Yes,No,NA,Yes,NA,Yes,No,No,No,No,Yes,No,No,1
+28,Male,United States,CA,No,No,Sometimes,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,1
+45,Male,United States,MO,No,Yes,Rarely,6to26,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+32,Male,United States,NY,No,No,Never,100to500,No,Yes,Yes,Yes,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+28,Male,United States,TX,No,No,NA,MoreThan1000,No,Yes,NA,No,No,NA,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+26,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,NA,No,No,NA,NA,Very easy,No,No,Some of them,Some of them,No,No,NA,Yes,0
+21,Male,United Kingdom,NA,Yes,No,Often,1to5,Yes,No,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,0
+27,Male,Canada,NA,No,No,Rarely,6to26,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,NA,No,0
+18,Male,United States,CT,No,No,Rarely,1to5,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,No,No,No,NA,No,1
+35,Male,United States,CO,No,No,NA,26to100,Yes,Yes,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+29,Male,United States,GA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,No,Yes,NA,NA,Yes,Yes,No,No,No,No,NA,No,0
+25,Male,United States,DC,No,No,NA,26to100,Yes,Yes,NA,No,No,No,NA,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+33,Male,United States,MN,No,Yes,Sometimes,6to26,Yes,Yes,NA,No,NA,NA,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,1
+36,Male,United States,WA,No,No,Often,6to26,No,Yes,Yes,No,No,No,Yes,NA,Maybe,No,No,No,No,No,NA,No,0
+27,Male,Canada,NA,No,No,Never,100to500,No,No,Yes,Not sure,No,No,NA,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,1
+27,Male,United States,WA,No,Yes,Never,500to1000,No,Yes,Yes,No,Yes,Yes,Yes,NA,Yes,No,Some of them,No,No,Yes,NA,No,0
+27,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,0
+32,Male,United States,OR,No,No,Rarely,100to500,No,Yes,Yes,Yes,No,Yes,Yes,NA,Yes,No,No,Yes,No,No,NA,No,1
+31,Male,United Kingdom,NA,No,Yes,Sometimes,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No,0
+19,Male,Slovenia,NA,No,No,Sometimes,6to26,No,Yes,NA,No,No,No,NA,Somewhat easy,Yes,Yes,Some of them,No,No,No,NA,No,1
+33,Male,United States,IL,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,No,NA,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,1
+32,Male,United States,CA,No,No,Rarely,1to5,Yes,Yes,No,Yes,No,No,NA,Very difficult,Maybe,No,Yes,Some of them,No,Yes,NA,No,0
+27,Male,United States,NE,No,No,Never,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,NA,No,0
+38,Male,Costa Rica,NA,No,No,NA,26to100,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No,0
+24,Male,Canada,NA,No,No,Never,26to100,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Yes,NA,No,1
+39,Male,United Kingdom,NA,No,No,Never,26to100,No,No,No,No,No,No,NA,NA,Yes,Maybe,No,No,No,No,NA,No,0
+28,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,NA,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+39,Male,United States,IA,No,No,Often,MoreThan1000,No,Yes,Yes,Not sure,No,No,NA,Somewhat easy,No,No,Yes,Yes,No,No,NA,No,1
+29,Female,United States,MD,No,No,NA,6to26,No,Yes,NA,No,No,NA,NA,Somewhat easy,Maybe,No,Some of them,No,No,No,NA,No,0
+22,Male,Austria,NA,No,No,NA,6to26,Yes,Yes,NA,No,NA,No,NA,Somewhat easy,No,No,Some of them,Some of them,No,No,NA,No,0
+38,Male,United States,OR,No,Yes,Sometimes,100to500,No,Yes,NA,No,NA,NA,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,1
+37,Male,United Kingdom,NA,Yes,No,Sometimes,MoreThan1000,No,No,No,Yes,Yes,Yes,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No,1
+35,Male,United States,TX,No,No,Never,26to100,Yes,No,NA,Not sure,NA,NA,NA,NA,Yes,No,Some of them,No,No,Maybe,NA,No,0
+-29,Male,United States,MN,No,No,NA,MoreThan1000,Yes,No,Yes,No,NA,Yes,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+30,Female,United States,PA,No,Yes,NA,MoreThan1000,Yes,Yes,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,Maybe,NA,No,0
+37,Male,United States,IN,No,Yes,Rarely,100to500,No,No,Yes,Yes,Yes,Yes,NA,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,NA,No,1
+24,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,No,No,No,No,Yes,NA,Maybe,Maybe,No,Some of them,No,No,NA,No,0
+23,Male,United States,WV,No,No,Sometimes,6to26,No,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,0
+30,Male,Ireland,NA,No,No,Rarely,100to500,No,Yes,No,Yes,Yes,Yes,NA,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes,1
+29,Female,United States,MI,No,No,NA,100to500,Yes,Yes,NA,Not sure,No,NA,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,0
+19,Male,Canada,NA,Yes,Yes,NA,1to5,Yes,Yes,NA,Not sure,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+32,Male,United States,CA,No,Yes,Never,26to100,No,Yes,NA,Not sure,No,No,NA,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,0
+28,Male,Poland,NA,No,No,Rarely,6to26,Yes,Yes,No,No,No,No,NA,NA,No,No,Yes,Yes,Maybe,Yes,Yes,No,0
+36,Male,United States,IL,No,No,Never,6to26,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+37,Male,United Kingdom,NA,No,Yes,Rarely,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes,1
+25,Male,United States,IL,No,Yes,Sometimes,26to100,No,No,NA,No,No,NA,NA,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,1
+27,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,No,No,NA,NA,NA,No,No,No,Some of them,No,Maybe,NA,No,1
+26,Male,United States,OK,No,No,Often,26to100,No,No,NA,Not sure,No,No,NA,NA,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,0
+27,Male,United States,UT,No,No,Rarely,26to100,Yes,Yes,No,Yes,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,NA,Yes,1
+25,Male,United States,IL,No,Yes,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,Very easy,Maybe,No,Some of them,No,No,No,NA,Yes,1
+36,Male,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,NA,Yes,1
+25,Female,United States,NY,No,Yes,Sometimes,500to1000,No,Yes,Yes,No,No,No,NA,NA,Yes,Yes,Some of them,Some of them,No,No,NA,No,1
+31,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,Yes,No,No,Yes,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,0
+26,Male,United States,MA,No,Yes,Rarely,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,0
+33,Female,United States,WA,Yes,Yes,Sometimes,1to5,No,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No,1
+27,Female,United Kingdom,NA,Yes,Yes,NA,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,0
+34,Male,United States,MN,No,No,Never,26to100,No,Yes,No,No,No,No,NA,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+42,Male,United States,CA,No,No,NA,6to26,No,Yes,No,Yes,No,No,NA,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,0
+23,Male,Ireland,NA,Yes,Yes,Sometimes,1to5,No,Yes,No,No,No,No,NA,Very difficult,Yes,No,No,No,No,Maybe,No,No,0
+24,Male,United Kingdom,NA,No,No,Rarely,100to500,No,Yes,NA,Not sure,Yes,NA,NA,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,NA,No,0
+26,Male,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,NA,Yes,Somewhat easy,No,No,Yes,Yes,No,No,NA,No,1
+31,Male,United Kingdom,NA,Yes,No,Often,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,1
+22,Male,India,NA,No,No,Never,MoreThan1000,No,Yes,NA,Not sure,No,No,NA,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,1
+23,Female,United States,NC,No,No,NA,6to26,No,Yes,NA,No,No,NA,NA,NA,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,0
+34,Female,Canada,NA,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,No,NA,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,1
+31,Male,United States,MO,No,No,Never,26to100,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,0
+28,Male,United Kingdom,NA,No,No,NA,100to500,No,No,No,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,0
+32,Female,United States,MA,No,No,Often,6to26,Yes,Yes,Yes,Not sure,NA,NA,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,1
+45,Female,United States,CA,No,No,Sometimes,1to5,No,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,1
+33,Male,United States,TX,No,No,NA,6to26,Yes,Yes,NA,No,No,No,NA,Very easy,No,No,Yes,Yes,No,Maybe,NA,No,0
+29,Male,Mexico,NA,No,No,Never,6to26,Yes,Yes,No,No,No,No,No,NA,Maybe,Maybe,No,Yes,Maybe,Yes,No,No,0
+26,Female,India,NA,Yes,No,Sometimes,6to26,No,No,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+28,Female,United Kingdom,NA,No,No,Never,26to100,No,Yes,NA,No,No,NA,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,NA,No,0
+45,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,Yes,Yes,Some of them,Some of them,No,No,NA,No,1
+43,Male,United States,WA,No,Yes,Often,MoreThan1000,Yes,Yes,Yes,Not sure,No,NA,NA,Very difficult,Yes,Maybe,No,No,No,No,No,No,1
+37,Male,United States,MA,No,No,NA,500to1000,Yes,Yes,Yes,No,No,No,NA,NA,Yes,No,Some of them,No,Maybe,Yes,No,No,0
+24,Male,United Kingdom,NA,No,No,Sometimes,6to26,No,Yes,NA,No,No,NA,NA,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,0
+26,Male,France,NA,No,No,NA,6to26,Yes,Yes,No,Yes,No,No,NA,Somewhat easy,No,No,Some of them,No,No,Maybe,Yes,No,0
+23,Male,United Kingdom,NA,No,Yes,NA,1to5,Yes,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Yes,NA,No,0
+35,Female,United States,CA,No,Yes,Never,MoreThan1000,No,Yes,Yes,Not sure,NA,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,NA,No,1
+38,Female,South Africa,NA,Yes,Yes,Often,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,NA,Yes,1
+28,Male,United States,MI,No,Yes,Sometimes,26to100,No,Yes,Yes,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No,1
+28,Male,Russia,NA,No,No,Sometimes,26to100,No,Yes,No,No,No,No,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,0
+35,Male,United States,CA,No,No,Rarely,6to26,No,Yes,No,No,No,No,Yes,NA,No,No,Some of them,Yes,No,No,NA,No,1
+32,Female,Germany,NA,No,No,Sometimes,100to500,No,Yes,No,No,No,No,NA,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,0
+31,Male,Italy,NA,Yes,Yes,Never,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,NA,No,0
+35,Female,United States,NY,No,No,Never,500to1000,Yes,Yes,NA,Not sure,No,No,NA,NA,Maybe,Maybe,Some of them,No,No,No,NA,No,0
+26,Male,United States,CA,No,No,Rarely,MoreThan1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,0
+27,Male,United States,TN,No,Yes,NA,6to26,Yes,Yes,Yes,Yes,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,0
+28,Male,United Kingdom,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,No,No,No,NA,NA,Maybe,Maybe,Some of them,No,No,Maybe,NA,No,1
+27,Female,United States,OR,No,Yes,Sometimes,26to100,No,Yes,Yes,No,No,No,NA,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,1
+34,Female,United States,MN,No,No,Sometimes,500to1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+41,Male,United States,FL,No,No,Often,6to26,Yes,Yes,No,Not sure,No,No,NA,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,1
+37,Male,Ireland,NA,No,No,Sometimes,1to5,No,Yes,No,Yes,No,No,NA,Very difficult,Yes,No,No,No,No,Yes,NA,No,0
+34,Male,Austria,NA,No,Yes,NA,100to500,Yes,Yes,NA,No,NA,NA,NA,Very easy,No,No,Yes,Yes,No,No,Yes,No,0
+32,Male,United Kingdom,NA,No,Yes,Sometimes,100to500,Yes,Yes,NA,Not sure,No,No,NA,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,1
+21,Male,Canada,NA,No,No,Sometimes,6to26,Yes,Yes,No,Yes,No,No,NA,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,1
+30,Male,United States,MA,No,No,Often,26to100,No,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,NA,No,1
+24,Male,United States,KS,No,No,Never,26to100,No,Yes,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+26,Male,Bulgaria,NA,No,No,NA,100to500,No,Yes,No,No,No,No,No,Very easy,Yes,Maybe,No,No,No,Maybe,NA,No,0
+40,Female,United States,DC,No,No,NA,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,0
+37,Male,United Kingdom,NA,No,Yes,Sometimes,26to100,No,No,No,No,No,No,NA,NA,Yes,Maybe,Some of them,Yes,No,Maybe,NA,No,0
+26,Male,United Kingdom,NA,Yes,No,Often,1to5,Yes,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,Maybe,NA,No,1
+32,Female,United States,TX,No,Yes,Sometimes,6to26,No,Yes,NA,No,No,No,No,NA,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,1
+32,Female,United States,MA,No,No,Sometimes,100to500,No,No,Yes,Yes,NA,NA,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,1
+27,Female,United States,MI,Yes,Yes,Sometimes,1to5,Yes,Yes,No,No,NA,NA,NA,Very difficult,No,No,Some of them,No,No,No,NA,No,1
+30,Male,Germany,NA,Yes,No,Often,6to26,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,1
+31,Male,Canada,NA,Yes,No,NA,6to26,No,Yes,Yes,Yes,No,NA,Yes,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,0
+29,Female,United States,NY,No,No,Never,500to1000,No,No,Yes,No,No,NA,NA,Somewhat difficult,Maybe,No,Some of them,No,No,No,NA,No,1
+41,Male,United States,VA,No,No,NA,26to100,No,Yes,Yes,Not sure,No,No,NA,Very easy,Yes,No,No,Some of them,No,No,NA,No,0
+34,Female,United States,WA,No,No,NA,6to26,No,Yes,Yes,No,No,No,NA,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+33,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,NA,No,No,No,NA,NA,No,No,Yes,Yes,Yes,Yes,NA,No,0
+28,Male,United States,PA,No,No,Rarely,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Some of them,No,Maybe,NA,No,0
+28,Male,United States,MI,No,No,Sometimes,MoreThan1000,No,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No,1
+23,Male,United States,PA,No,No,Never,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,No,Yes,No,Yes,Yes,No,0
+24,Male,United States,OR,No,No,NA,1to5,No,Yes,NA,No,NA,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,0
+32,Male,United States,WA,No,No,Rarely,1to5,Yes,Yes,No,Yes,No,No,NA,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+34,Male,Australia,NA,Yes,No,Sometimes,1to5,Yes,Yes,NA,Not sure,Yes,Yes,NA,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No,0
+24,Male,United States,PA,No,No,Never,6to26,No,Yes,Yes,Not sure,No,NA,NA,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No,0
+26,Male,United Kingdom,NA,Yes,No,Sometimes,1to5,No,Yes,No,Yes,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,1
+36,Male,United States,OH,No,No,Sometimes,26to100,No,Yes,Yes,No,No,Yes,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,Yes,1
+41,Male,United States,TX,No,No,Rarely,500to1000,Yes,Yes,Yes,Yes,No,NA,NA,NA,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No,1
+38,Male,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,No,NA,Not sure,NA,NA,NA,Very difficult,Yes,No,No,No,No,Maybe,No,No,1
+38,Male,United States,NH,No,No,Sometimes,26to100,Yes,Yes,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,0
+30,Male,Netherlands,NA,No,No,NA,26to100,No,Yes,NA,No,NA,NA,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,0
+25,Male,United Kingdom,NA,No,No,Never,26to100,No,Yes,No,No,No,No,NA,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,0
+37,Male,Canada,NA,No,Yes,Often,26to100,No,Yes,Yes,Yes,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Yes,NA,No,1
+34,Male,United Kingdom,NA,No,Yes,NA,6to26,No,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,Yes,No,Yes,0
+37,Female,United States,NC,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,1
+28,Female,Canada,NA,No,Yes,Sometimes,6to26,No,No,Yes,Yes,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,No,No,Yes,1
+22,Male,Sweden,NA,No,No,NA,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,No,No,0
+34,Male,United States,FL,No,Yes,Sometimes,1to5,No,Yes,No,No,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,1
+33,Male,United States,CA,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,1
+25,Male,South Africa,NA,No,No,NA,6to26,No,Yes,No,No,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,No,No,0
+27,Male,United States,GA,No,No,Never,MoreThan1000,Yes,Yes,Yes,Yes,NA,NA,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+40,Male,United States,OH,No,No,Sometimes,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,Yes,Maybe,No,No,No,Maybe,No,Yes,1
+21,Male,United States,KY,No,No,Often,6to26,No,No,NA,No,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,1
+29,Male,United Kingdom,NA,No,No,NA,6to26,No,No,No,No,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,0
+32,Male,United States,NC,No,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,NA,NA,Maybe,No,Yes,Yes,No,Yes,NA,No,1
+29,Female,United States,NY,No,Yes,Rarely,500to1000,Yes,No,Yes,Yes,Yes,NA,Yes,NA,Maybe,No,Some of them,No,Maybe,Yes,NA,No,1
+23,Male,United States,AL,No,Yes,Sometimes,26to100,Yes,No,NA,No,No,NA,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,1
+28,Male,United States,GA,No,Yes,NA,100to500,No,Yes,Yes,No,No,NA,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,0
+31,Male,United States,CA,No,Yes,Rarely,100to500,Yes,Yes,Yes,Yes,Yes,NA,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+27,Male,United Kingdom,NA,No,No,NA,100to500,No,No,NA,Not sure,NA,NA,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,NA,No,0
+24,Male,United States,VA,No,No,Sometimes,6to26,No,Yes,NA,No,NA,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,NA,No,0
+29,Male,Canada,NA,No,No,Often,6to26,No,Yes,No,No,No,No,NA,Somewhat difficult,Yes,No,No,No,No,Maybe,NA,No,0
+23,Female,United Kingdom,NA,No,No,Sometimes,6to26,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,1
+42,Male,United States,WA,No,No,Never,6to26,Yes,Yes,No,Yes,No,Yes,NA,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,0
+24,Male,United Kingdom,NA,No,No,NA,1to5,No,Yes,No,No,No,No,NA,NA,Yes,No,Some of them,Some of them,No,Yes,No,No,0
+25,Male,Australia,NA,No,Yes,Often,6to26,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,1
+27,Female,United States,TX,No,No,Rarely,6to26,No,Yes,Yes,No,No,No,Yes,NA,Maybe,Maybe,Yes,No,No,Maybe,NA,No,1
+27,Male,Canada,NA,No,No,Sometimes,6to26,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,0
+30,Male,United States,FL,No,No,Sometimes,100to500,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,No,No,Yes,Yes,Maybe,No,Yes,No,1
+29,Male,Poland,NA,No,Yes,Rarely,6to26,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,1
+43,Male,Canada,NA,Yes,No,NA,6to26,Yes,Yes,No,Not sure,No,No,NA,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,NA,No,0
+32,Male,United States,NV,No,No,NA,6to26,No,Yes,No,Yes,No,NA,NA,Very easy,No,No,Some of them,Yes,No,Maybe,NA,No,0
+41,Male,United States,AL,No,No,Sometimes,26to100,Yes,Yes,Yes,Yes,NA,No,NA,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+32,Male,United Kingdom,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,NA,Not sure,NA,NA,NA,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,NA,Yes,1
+37,Female,United States,CA,No,Yes,Often,26to100,No,Yes,Yes,Yes,No,No,Yes,NA,Maybe,No,Some of them,Some of them,No,Yes,NA,No,1
+32,Male,United States,CO,No,No,Never,6to26,Yes,Yes,No,No,No,No,NA,Very easy,No,No,Yes,Yes,No,No,NA,No,0
+30,Male,Ireland,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,No,No,No,NA,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,0
+23,Female,United States,MN,No,Yes,Never,100to500,No,No,Yes,No,NA,NA,Yes,NA,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,1
+30,Male,United States,NJ,No,No,NA,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,0
+34,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,NA,No,0
+38,Male,United States,PA,No,No,Rarely,26to100,Yes,Yes,Yes,No,No,No,NA,NA,Yes,No,No,No,No,Maybe,No,No,1
+33,Male,Canada,NA,No,No,NA,100to500,No,Yes,Yes,No,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,No,NA,No,0
+34,Male,United States,MO,No,No,NA,26to100,No,No,Yes,No,No,No,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+28,Male,Colombia,NA,No,No,Sometimes,6to26,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,NA,No,0
+28,Male,United States,MN,No,No,Rarely,100to500,No,No,Yes,Yes,Yes,NA,NA,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,1
+23,Male,United States,PA,No,Yes,Sometimes,100to500,No,Yes,NA,No,No,NA,NA,NA,Maybe,No,Some of them,No,No,Maybe,No,No,0
+22,Male,Australia,NA,Yes,Yes,Sometimes,6to26,Yes,Yes,NA,Not sure,Yes,Yes,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes,1
+27,Male,Portugal,NA,No,No,Never,6to26,No,Yes,No,No,No,No,Yes,NA,Yes,No,No,No,No,Maybe,NA,No,0
+18,Male,United States,TX,No,No,Sometimes,6to26,No,Yes,NA,No,No,NA,NA,NA,Yes,No,No,No,No,Maybe,NA,No,1
+35,Male,United States,NY,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,NA,No,1
+25,Male,Canada,NA,No,No,NA,100to500,No,No,NA,Not sure,No,No,NA,NA,No,No,Some of them,Some of them,No,Yes,No,No,0
+27,Male,United Kingdom,NA,No,Yes,Sometimes,6to26,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,1
+26,Female,United States,WA,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+18,Male,United States,WA,No,No,Never,26to100,No,Yes,NA,Not sure,NA,NA,NA,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,0
+38,Female,United States,TX,No,No,Sometimes,1to5,No,Yes,No,Yes,No,No,NA,NA,No,Maybe,Some of them,No,No,No,NA,Yes,1
+26,Female,United States,TX,No,Yes,Rarely,MoreThan1000,Yes,Yes,Yes,Yes,Yes,NA,NA,Somewhat easy,Maybe,No,Some of them,No,No,No,NA,No,1
+30,Male,Switzerland,NA,Yes,No,Never,1to5,No,Yes,No,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,0
+35,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,NA,No,No,NA,NA,NA,Yes,Maybe,Some of them,Some of them,No,No,NA,No,0
+45,Male,United States,NY,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,NA,Yes,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,1
+32,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,Yes,No,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+56,Male,United States,NA,No,No,Never,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,NA,No,Maybe,Yes,Some of them,No,Maybe,NA,No,1
+24,Female,United States,CA,No,No,NA,500to1000,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,No,No,Maybe,No,No,0
+30,Female,United States,SC,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,Yes,NA,NA,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,1
+60,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,Yes,No,NA,Yes,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+33,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,No,Yes,Yes,NA,NA,Yes,No,No,No,No,Maybe,NA,No,1
+37,Male,United States,NY,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+23,Female,United States,NY,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Some of them,No,No,Yes,No,1
+31,Female,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,1
+26,Male,United States,MA,No,No,Rarely,100to500,No,Yes,Yes,Not sure,No,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+28,Female,United States,WA,No,Yes,Often,100to500,Yes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,1
+37,Female,United States,CA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,NA,Yes,NA,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,1
+26,Male,Canada,NA,No,Yes,Often,6to26,No,Yes,Yes,No,No,NA,NA,NA,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,1
+30,None,United States,IL,No,Yes,Rarely,26to100,No,Yes,Yes,Not sure,No,No,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,No,NA,No,1
+26,Male,United States,IN,No,No,NA,26to100,No,Yes,No,No,No,No,NA,NA,No,No,Some of them,Some of them,No,No,NA,Yes,0
+25,Male,United States,OR,No,No,NA,26to100,Yes,Yes,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+27,Male,United States,TN,No,No,Sometimes,100to500,No,Yes,Yes,Not sure,Yes,Yes,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,0
+25,Male,Canada,NA,No,No,Often,6to26,Yes,No,NA,No,No,NA,NA,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,NA,No,1
+35,Male,United States,OR,No,No,Rarely,100to500,No,Yes,Yes,Not sure,NA,Yes,NA,NA,No,No,Some of them,Yes,No,No,NA,No,1
+36,Male,United States,WA,Yes,No,Never,1to5,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+26,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,No,NA,NA,NA,Yes,No,No,No,No,No,No,No,1
+27,Male,United States,CA,No,Yes,NA,MoreThan1000,No,Yes,NA,No,NA,NA,NA,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+30,Male,United States,VT,No,No,NA,6to26,No,No,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+29,Male,United States,NY,No,No,NA,100to500,No,No,NA,Not sure,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,0
+25,Male,United States,UT,No,No,Never,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+22,Female,United States,NY,No,Yes,Often,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes,1
+29,Male,Latvia,NY,No,No,NA,26to100,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+41,Male,United States,SD,No,Yes,Rarely,100to500,Yes,Yes,Yes,Yes,NA,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,1
+29,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,No,No,NA,NA,NA,Yes,No,Some of them,Some of them,No,Maybe,No,No,1
+32,Male,United States,OR,No,No,Never,500to1000,No,Yes,Yes,Not sure,NA,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+24,Female,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,Yes,Yes,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,1
+25,Male,United States,CA,No,No,Rarely,6to26,No,Yes,Yes,No,NA,No,NA,NA,Maybe,No,No,No,No,No,NA,No,1
+25,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,0
+30,Female,United States,CO,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,NA,No,0
+25,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,NA,Yes,NA,NA,No,No,Yes,Yes,No,No,Yes,No,1
+30,Male,United States,OH,Yes,No,Never,1to5,Yes,Yes,No,Yes,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+33,Male,Germany,NA,Yes,Yes,Rarely,1to5,No,No,No,No,No,No,NA,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes,1
+24,Male,United States,WA,No,No,NA,26to100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,0
+25,Male,Canada,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,NA,NA,NA,Yes,Maybe,Some of them,No,No,No,No,No,1
+31,Male,United States,OH,No,No,NA,100to500,No,No,NA,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,0
+45,Male,Ireland,NA,Yes,No,Often,1to5,No,Yes,No,No,No,No,NA,Very difficult,No,No,No,No,No,No,NA,No,1
+29,Male,Romania,NA,No,No,NA,6to26,Yes,No,No,Yes,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No,0
+46,Male,United States,WA,No,No,Never,26to100,No,Yes,Yes,Not sure,Yes,NA,NA,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+30,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,Yes,NA,No,No,NA,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,1
+29,Female,United States,CA,Yes,No,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,NA,No,NA,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+24,Male,United States,MA,No,No,NA,MoreThan1000,No,Yes,Yes,Yes,NA,NA,Yes,NA,Yes,No,No,No,No,Maybe,NA,No,0
+29,Male,United States,WA,No,No,NA,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+35,Male,United States,MI,No,No,NA,26to100,No,No,NA,Not sure,No,NA,NA,NA,No,No,Yes,Yes,No,No,No,No,0
+33,Female,United States,WA,No,Yes,Sometimes,26to100,Yes,Yes,No,Yes,No,No,NA,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,0
+27,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,Very easy,Yes,No,No,No,No,Maybe,No,No,0
+36,Male,United States,IA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+33,Male,United Kingdom,NA,No,No,Rarely,1to5,Yes,Yes,NA,No,No,No,NA,NA,Yes,Maybe,No,No,No,Maybe,No,No,0
+25,Female,United States,WA,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,No,Yes,NA,No,No,Some of them,Yes,No,No,NA,No,1
+23,Male,United States,AL,No,Yes,Sometimes,100to500,No,No,NA,No,No,No,NA,NA,No,No,Yes,Yes,Maybe,Yes,NA,No,1
+54,Male,United States,CA,No,Yes,Never,MoreThan1000,No,Yes,NA,No,Yes,Yes,NA,NA,No,No,No,Yes,No,No,NA,No,1
+22,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,NA,No,NA,NA,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+25,None,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,Yes,No,1
+29,Male,Belgium,NA,No,No,Often,6to26,No,No,NA,No,No,No,NA,NA,Maybe,No,Yes,Yes,Maybe,Maybe,NA,No,0
+27,Male,United States,MA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,No,No,No,No,No,Yes,Yes,No,1
+30,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,No,No,No,NA,NA,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+26,Male,United States,CA,No,Yes,Often,MoreThan1000,No,Yes,Yes,Not sure,NA,Yes,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,1
+25,Female,Sweden,NA,No,Yes,Sometimes,6to26,No,Yes,Yes,Yes,Yes,No,NA,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,0
+31,Male,United States,CA,No,No,Sometimes,500to1000,No,No,No,Yes,No,NA,Yes,NA,No,No,Some of them,No,No,No,No,No,1
+33,Male,United States,IN,No,Yes,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+34,Male,United States,WA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,Yes,Yes,NA,Maybe,Maybe,No,No,No,No,NA,No,1
+34,Male,United States,WA,No,No,Sometimes,100to500,Yes,Yes,No,No,No,No,NA,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,NA,No,1
+29,Male,United States,IN,Yes,No,NA,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+33,Female,United States,WA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+34,Male,Germany,NA,Yes,Yes,Rarely,26to100,Yes,Yes,No,No,No,NA,NA,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,1
+26,Male,United States,OK,Yes,Yes,Rarely,100to500,Yes,No,No,No,No,NA,No,NA,Maybe,No,Some of them,Yes,No,Yes,No,No,1
+32,Male,United States,MI,No,Yes,Rarely,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,Yes,Yes,No,1
+28,Male,United States,GA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,No,NA,NA,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,1
+35,Male,United States,CA,No,Yes,NA,MoreThan1000,No,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+36,Male,United States,NA,No,Yes,Often,100to500,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,NA,No,1
+21,Male,United States,IN,No,Yes,Rarely,100to500,No,Yes,Yes,No,No,NA,Yes,NA,No,No,Yes,Yes,Maybe,Maybe,NA,No,1
+21,Male,United Kingdom,NA,No,No,Sometimes,6to26,No,No,NA,Not sure,No,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,1
+22,Female,United States,WA,No,No,NA,MoreThan1000,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,0
+41,Male,United States,WA,No,Yes,Often,MoreThan1000,No,Yes,Yes,No,Yes,Yes,NA,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,1
+55,Male,United States,PA,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+32,Female,United States,WA,No,No,Sometimes,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,1
+21,Female,United States,CA,No,Yes,Rarely,26to100,No,Yes,NA,Not sure,NA,No,NA,Somewhat easy,Yes,No,Some of them,No,No,Yes,NA,No,1
+45,Male,United States,MA,No,No,Never,26to100,Yes,Yes,Yes,Yes,NA,NA,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,1
+27,Female,United States,WA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,No,No,Yes,NA,Yes,Maybe,No,No,No,No,No,No,1
+25,Female,United States,WA,No,Yes,Sometimes,26to100,Yes,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+34,Female,United States,NY,No,Yes,Rarely,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,1
+26,Female,United States,CA,No,Yes,Never,MoreThan1000,No,Yes,Yes,Yes,No,Yes,Yes,NA,Maybe,No,No,No,No,No,NA,No,1
+41,Male,Canada,NA,No,No,Never,500to1000,No,Yes,Yes,Not sure,No,NA,NA,Somewhat easy,No,No,Some of them,Some of them,No,No,NA,No,1
+27,Male,United States,CA,No,No,Rarely,MoreThan1000,No,Yes,Yes,No,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+31,Male,United States,IN,No,Yes,Sometimes,26to100,Yes,Yes,Yes,No,No,No,NA,NA,No,No,Yes,Yes,No,No,NA,No,1
+25,Male,Germany,NA,No,Yes,Often,26to100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No,1
+26,Male,United States,NV,No,No,Sometimes,6to26,No,Yes,NA,No,No,No,NA,NA,Yes,Yes,Some of them,No,No,No,No,No,1
+27,Female,United States,CO,No,Yes,Rarely,MoreThan1000,Yes,Yes,Yes,Yes,No,NA,NA,NA,Maybe,Maybe,No,Yes,No,No,NA,No,1
+42,Male,New Zealand,NA,No,No,Never,500to1000,No,Yes,NA,Not sure,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+29,None,United States,CA,Yes,Yes,Sometimes,1to5,Yes,Yes,Yes,Yes,No,No,NA,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,1
+25,Female,United States,CA,No,No,Sometimes,6to26,No,Yes,NA,Not sure,No,No,NA,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,NA,No,1
+33,Female,Sweden,NA,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Yes,No,Yes,Yes,NA,Maybe,No,Some of them,No,No,Yes,NA,No,1
+40,Female,United States,PA,No,Yes,Rarely,MoreThan1000,No,No,Yes,No,NA,NA,NA,Somewhat easy,Maybe,Maybe,No,No,No,No,NA,No,1
+31,Male,United States,SC,No,No,Never,MoreThan1000,No,Yes,NA,No,No,NA,NA,Somewhat easy,Yes,No,Some of them,No,No,No,NA,No,0
+26,Male,Canada,NA,No,Yes,Often,26to100,Yes,Yes,NA,No,NA,NA,NA,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+24,Female,United States,TX,No,Yes,NA,500to1000,No,No,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,0
+29,Male,United States,TX,No,No,Never,MoreThan1000,No,No,Yes,Not sure,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+48,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,NA,No,No,No,NA,NA,Maybe,Maybe,No,No,No,No,No,No,0
+35,Male,United Kingdom,NA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,NA,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,0
+32,Female,United States,AL,No,No,Never,100to500,No,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,0
+29,Male,Canada,NA,No,No,Sometimes,100to500,No,Yes,NA,Not sure,NA,NA,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,1
+26,Male,United States,OR,No,Yes,Often,6to26,No,Yes,Yes,Yes,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No,1
+28,Male,United States,NJ,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,No,No,1
+23,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,No,No,0
+35,Male,United States,CA,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,No,No,NA,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,1
+29,Male,Germany,NA,No,Yes,Sometimes,26to100,No,Yes,NA,No,No,No,NA,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,NA,No,1
+26,Male,United States,CA,No,Yes,NA,6to26,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,0
+33,Male,United States,NH,No,Yes,Never,26to100,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,Yes,Maybe,Yes,Some of them,No,No,Yes,No,1
+33,Male,United States,CA,No,No,NA,MoreThan1000,Yes,Yes,NA,No,NA,NA,NA,NA,Yes,No,Some of them,No,No,Maybe,Yes,No,0
+22,Male,Brazil,NA,Yes,No,Never,6to26,Yes,Yes,NA,No,No,No,NA,Somewhat easy,No,No,Yes,Yes,Maybe,No,NA,No,0
+30,Female,Spain,NA,No,Yes,NA,500to1000,No,Yes,No,No,No,No,NA,NA,Yes,Maybe,No,No,No,No,NA,No,0
+33,Male,United States,OH,No,Yes,Often,MoreThan1000,Yes,Yes,Yes,Yes,No,No,NA,Somewhat easy,Yes,No,No,No,No,No,No,No,1
+31,Female,United States,OH,No,Yes,Rarely,MoreThan1000,No,No,NA,Not sure,No,NA,NA,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,1
+21,Male,United States,MA,No,Yes,Never,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Some of them,No,Maybe,NA,Yes,0
+31,None,United Kingdom,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,No,No,No,NA,NA,Yes,Maybe,No,No,No,Yes,Yes,No,1
+26,Female,United States,OK,No,No,Sometimes,100to500,Yes,Yes,NA,Not sure,NA,NA,NA,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,1
+30,Male,United States,CA,No,Yes,Often,6to26,No,Yes,NA,No,No,NA,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,No,NA,No,0
+30,None,Germany,NA,No,Yes,Sometimes,100to500,No,Yes,NA,Not sure,No,No,NA,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No,1
+23,Male,India,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,No,No,0
+34,Male,Finland,NA,No,No,Never,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,No,No,Yes,Yes,No,Maybe,NA,No,0
+55,Male,United States,ID,No,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,NA,NA,NA,Yes,Maybe,No,No,No,No,No,Yes,1
+28,Male,Germany,NA,No,Yes,Rarely,1to5,Yes,Yes,Yes,No,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+26,Male,Uruguay,NA,No,No,NA,26to100,Yes,Yes,NA,No,NA,No,NA,NA,No,No,Some of them,No,No,Yes,NA,No,0
+28,Male,New Zealand,NA,No,Yes,Sometimes,6to26,Yes,Yes,Yes,Yes,Yes,No,NA,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+32,Male,United Kingdom,NA,No,Yes,Sometimes,6to26,No,Yes,No,No,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,1
+28,Female,United States,NY,No,No,Rarely,MoreThan1000,No,No,Yes,Yes,No,NA,NA,NA,Maybe,No,No,No,No,No,NA,No,1
+21,Male,United States,CA,No,No,Sometimes,6to26,No,No,NA,Not sure,No,Yes,Yes,NA,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,0
+24,Male,United States,TX,No,Yes,Sometimes,100to500,No,Yes,No,Yes,No,No,NA,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,1
+26,Female,United States,MD,No,No,NA,MoreThan1000,No,No,Yes,Not sure,Yes,NA,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+23,Male,United States,IN,No,No,NA,MoreThan1000,No,No,Yes,No,No,No,NA,NA,No,No,Yes,No,No,Yes,NA,No,0
+24,Female,United States,OR,No,No,NA,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Yes,No,0
+28,Male,Canada,NA,Yes,No,Never,100to500,Yes,Yes,NA,No,No,No,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,0
+24,Female,United States,NY,No,Yes,Rarely,6to26,No,Yes,No,No,No,No,NA,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,1
+33,Male,United States,MS,Yes,No,Often,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,NA,No,1
+34,Male,United States,NJ,No,No,Sometimes,26to100,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Yes,Yes,No,Maybe,NA,No,0
+27,Female,United States,CA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+28,Male,United States,TN,No,No,Never,6to26,No,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+26,Male,United States,WA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,Yes,0
+20,Male,Australia,NA,No,No,NA,100to500,Yes,Yes,NA,Not sure,NA,NA,Yes,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+23,Female,United States,MA,No,No,Sometimes,26to100,No,Yes,Yes,Yes,No,NA,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,1
+29,Male,United States,PA,No,Yes,Rarely,1to5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+26,Male,United Kingdom,NA,No,Yes,Sometimes,6to26,No,Yes,No,No,No,No,NA,NA,Maybe,Maybe,No,No,No,Maybe,No,No,0
+36,Male,United States,KY,No,No,Rarely,MoreThan1000,Yes,Yes,Yes,No,Yes,NA,NA,Somewhat easy,Maybe,No,No,No,No,No,NA,No,0
+41,Male,United States,PA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes,1
+33,Female,United States,MA,No,No,NA,100to500,Yes,Yes,Yes,No,NA,No,NA,NA,No,No,Some of them,Yes,No,No,Yes,No,0
+23,Male,Canada,NA,No,Yes,Sometimes,6to26,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+39,Male,United States,CA,No,Yes,Often,MoreThan1000,No,Yes,Yes,No,No,NA,NA,NA,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,0
+34,Male,United States,VT,No,Yes,NA,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,Yes,0
+26,Female,United States,CA,No,No,Sometimes,100to500,No,Yes,Yes,Yes,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,1
+24,Male,United States,AZ,No,No,Rarely,26to100,No,Yes,Yes,Yes,Yes,No,NA,NA,No,No,Some of them,Yes,No,No,NA,No,1
+37,Male,Canada,NA,No,Yes,Rarely,MoreThan1000,No,No,Yes,Yes,Yes,Yes,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+43,Male,United States,MA,Yes,Yes,Often,6to26,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+40,None,United States,VA,No,Yes,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,NA,Yes,NA,Yes,Maybe,No,Some of them,No,Maybe,Yes,No,0
+30,Male,United States,WA,No,Yes,Often,MoreThan1000,No,Yes,Yes,Yes,Yes,No,NA,Very difficult,Yes,No,Some of them,No,No,No,No,Yes,1
+34,Male,United States,CA,No,No,Sometimes,6to26,No,Yes,NA,Not sure,No,No,NA,NA,Yes,Yes,Some of them,No,No,No,NA,No,1
+27,Male,United States,OR,No,Yes,Sometimes,100to500,No,Yes,NA,Not sure,No,NA,NA,NA,Yes,No,No,No,No,Yes,NA,No,1
+36,Male,United States,MI,No,No,Sometimes,MoreThan1000,No,Yes,NA,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,NA,No,0
+27,Male,Brazil,NA,No,No,Rarely,6to26,No,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,0
+35,Male,Netherlands,NA,No,Yes,Never,100to500,No,Yes,Yes,No,No,No,Yes,NA,Yes,No,No,No,No,Maybe,NA,No,0
+32,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,No,No,Yes,Yes,No,0
+37,Male,United States,OR,No,No,NA,500to1000,No,Yes,Yes,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+29,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,NA,No,NA,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+33,Female ,United States,CA,No,No,Never,500to1000,No,Yes,Yes,Not sure,Yes,Yes,NA,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No,0
+28,Male,United States,UT,No,No,Sometimes,6to26,Yes,Yes,No,Yes,No,No,NA,Somewhat easy,Yes,Maybe,Some of them,No,No,No,NA,No,0
+26,Female,United States,CA,No,Yes,Never,26to100,No,Yes,NA,Not sure,No,No,NA,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,0
+27,Male,United States,TX,No,Yes,Sometimes,6to26,Yes,Yes,NA,No,Yes,NA,NA,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No,1
+38,Male,United Kingdom,NA,Yes,No,Sometimes,26to100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,1
+57,Male,United States,CA,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,No,No,1
+28,Male,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No,1
+26,Male,France,NA,No,No,Never,6to26,No,Yes,No,Yes,No,No,NA,NA,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,0
+42,Female,Netherlands,NA,No,No,Rarely,100to500,Yes,Yes,Yes,Yes,No,No,Yes,NA,Yes,No,Some of them,No,No,Maybe,NA,No,1
+31,Male,United States,OR,No,No,Sometimes,100to500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,1
+58,Male,United States,CA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No,1
+29,Male,United States,OH,No,No,Sometimes,6to26,No,Yes,NA,No,No,No,NA,Very difficult,Yes,No,No,No,No,Maybe,No,No,0
+39,Female,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,Yes,NA,NA,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,1
+34,Male,United States,OH,No,No,Sometimes,6to26,Yes,Yes,NA,No,No,No,NA,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,NA,No,0
+57,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,Yes,Yes,NA,NA,Maybe,Maybe,No,No,No,Maybe,NA,No,1
+27,Male,Germany,NA,No,Yes,Sometimes,6to26,No,Yes,No,Not sure,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,1
+23,Male,Germany,NA,Yes,Yes,Often,26to100,Yes,Yes,NA,No,NA,NA,NA,NA,No,Maybe,Yes,Yes,Maybe,Yes,NA,No,1
+18,Male,Finland,NA,No,No,NA,500to1000,Yes,No,NA,No,No,NA,NA,Very easy,Yes,No,No,No,No,Maybe,NA,No,0
+30,Female,United States,NY,No,No,NA,100to500,No,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,0
+23,Male,United States,VA,No,No,Never,26to100,No,No,NA,Not sure,NA,NA,NA,NA,No,No,Yes,Yes,Maybe,Yes,Yes,No,0
+43,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,NA,No,1
+18,Female,United Kingdom,NA,No,Yes,Sometimes,1to5,Yes,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,1
+29,Male,United States,IL,No,No,Rarely,6to26,No,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,1
+48,Male,United States,TX,No,No,Never,6to26,No,Yes,NA,No,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,0
+43,Male,Germany,NA,No,No,Sometimes,26to100,No,No,No,Yes,NA,No,NA,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes,1
+28,Female,United States,NY,No,Yes,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,NA,Yes,Maybe,Some of them,No,No,Maybe,NA,No,1
+30,Male,United States,CA,Yes,Yes,Often,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+26,Male,Israel,MD,No,No,Sometimes,6to26,No,Yes,No,No,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,0
+33,Male,Italy,NA,No,No,Never,6to26,No,No,No,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,No,No,0
+31,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,Yes,NA,No,No,No,Some of them,No,No,Yes,No,0
+30,Male,United States,PA,No,No,Rarely,100to500,No,No,NA,Not sure,No,No,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,0
+27,Male,Israel,NA,No,No,NA,26to100,No,Yes,No,No,No,No,NA,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,0
+24,Female,United States,CA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,No,NA,NA,NA,NA,No,No,Some of them,Some of them,No,No,NA,Yes,1
+25,Male,United States,WA,No,No,NA,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+23,Female,United States,NY,No,Yes,Often,MoreThan1000,No,Yes,Yes,Not sure,NA,No,NA,NA,Maybe,No,Some of them,Some of them,No,No,Yes,Yes,1
+36,Male,United States,TX,No,No,Sometimes,MoreThan1000,No,No,Yes,Not sure,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,1
+25,Female,United States,CA,Yes,Yes,Often,1to5,Yes,Yes,NA,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,1
+54,Male,United Kingdom,NA,No,No,Sometimes,MoreThan1000,Yes,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,1
+34,Male,Netherlands,NA,No,No,Rarely,6to26,No,Yes,NA,Not sure,NA,NA,NA,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,0
+38,Female,United States,AZ,No,No,NA,26to100,No,Yes,Yes,Yes,No,No,Yes,NA,Maybe,Maybe,No,No,No,No,No,No,1
+40,Male,Ireland,NA,Yes,Yes,NA,MoreThan1000,No,Yes,No,No,No,No,No,NA,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,0
+32,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,No,Not sure,No,NA,NA,NA,No,No,No,Some of them,No,Maybe,NA,No,0
+25,Male,Germany,NA,No,No,Never,MoreThan1000,No,No,NA,Not sure,NA,Yes,NA,NA,No,No,Yes,Yes,No,Yes,NA,No,0
+35,Female,United States,OH,No,No,Sometimes,100to500,No,Yes,No,Yes,No,No,NA,NA,Yes,Maybe,No,No,No,Maybe,No,No,1
+46,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,NA,NA,Maybe,No,Some of them,No,No,No,Yes,No,1
+42,Male,United States,KS,No,No,Never,100to500,No,No,Yes,No,Yes,No,NA,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No,0
+32,Male,United Kingdom,NA,No,Yes,Sometimes,6to26,Yes,Yes,Yes,No,No,No,NA,NA,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+47,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,NA,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No,1
+22,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,Yes,Not sure,Yes,NA,Yes,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+33,Female,United States,NY,No,No,Sometimes,500to1000,Yes,Yes,Yes,Yes,Yes,Yes,NA,Very easy,No,No,Some of them,Some of them,No,No,NA,No,1
+25,Female,United States,WA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No,0
+29,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,0
+39,Male,United States,WA,No,No,Never,26to100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,0
+38,Male,United States,VA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,NA,Yes,No,No,No,No,No,No,No,1
+43,Male,United States,NC,No,No,NA,6to26,Yes,Yes,NA,No,No,NA,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+46,Male,United States,OH,No,No,Rarely,500to1000,Yes,Yes,Yes,Not sure,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+38,Female,United States,PA,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,1
+33,Male,Germany,NA,No,No,Sometimes,6to26,No,Yes,Yes,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,1
+34,Male,United Kingdom,NA,No,Yes,Often,26to100,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No,1
+62,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,NA,Yes,NA,NA,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+23,Female,United States,TX,No,No,NA,MoreThan1000,No,No,NA,Not sure,NA,NA,Yes,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+35,Male,United States,AZ,No,No,NA,MoreThan1000,No,No,No,No,No,No,NA,NA,Maybe,Maybe,No,No,No,No,No,No,0
+25,Male,Bosnia and Herzegovina,NA,No,Yes,Rarely,26to100,Yes,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Yes,No,No,No,No,NA,Yes,0
+36,Male,United States,IL,Yes,Yes,Sometimes,1to5,Yes,Yes,NA,Yes,NA,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No,1
+41,Female,United States,NA,No,Yes,Rarely,500to1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,1
+24,Male,Austria,NA,Yes,No,Sometimes,1to5,No,Yes,Yes,Yes,NA,NA,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,0
+51,Male,New Zealand,NA,No,No,Sometimes,26to100,Yes,Yes,No,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,NA,Yes,1
+29,Male,United States,NC,No,No,Sometimes,6to26,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No,1
+31,Female,Canada,NA,Yes,Yes,Sometimes,100to500,Yes,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,1
+27,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,No,No,Some of them,Yes,No,Yes,NA,No,0
+31,Male,Australia,NA,No,No,Rarely,100to500,No,Yes,Yes,Yes,Yes,Yes,NA,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,1
+27,Female,Hungary,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,0
+23,Male,Sweden,NA,No,No,Rarely,6to26,No,Yes,NA,No,No,NA,NA,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+21,Male,Canada,NA,No,No,Never,26to100,No,Yes,NA,Not sure,NA,No,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,0
+27,Female,Australia,NA,No,Yes,Sometimes,6to26,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No,1
+39,Male,United States,WI,No,Yes,Often,26to100,Yes,Yes,Yes,Yes,Yes,Yes,NA,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No,1
+26,Male,United States,CA,No,Yes,Never,MoreThan1000,No,Yes,NA,No,No,NA,NA,NA,Maybe,No,No,No,No,No,No,No,1
+27,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+22,Female,United States,CA,No,Yes,Sometimes,500to1000,No,Yes,Yes,Yes,No,NA,NA,NA,No,No,Some of them,Some of them,No,No,No,Yes,1
+26,Female,United States,MN,No,Yes,Often,100to500,No,No,NA,No,No,No,NA,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,1
+31,Female,United States,PA,No,Yes,Rarely,100to500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,1
+32,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Yes,Yes,Yes,Yes,Yes,No,0
+28,Female,United States,CA,No,Yes,Often,100to500,Yes,Yes,Yes,No,No,NA,NA,NA,Yes,Yes,Some of them,Some of them,No,No,No,Yes,1
+28,None,United Kingdom,NA,No,Yes,Rarely,100to500,No,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes,1
+23,Female,United Kingdom,NA,No,No,NA,6to26,No,Yes,NA,Not sure,No,No,NA,Very easy,Maybe,No,No,Some of them,No,Yes,Yes,No,0
+30,Male,United Kingdom,NA,No,No,Never,26to100,Yes,Yes,NA,Not sure,NA,NA,NA,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+36,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,No,No,Yes,NA,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,1
+21,Male,United States,CA,No,Yes,NA,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+30,Male,Germany,NA,No,No,Often,26to100,No,Yes,No,No,NA,No,NA,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,NA,No,0
+25,Female,United States,CA,No,Yes,NA,500to1000,No,No,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+32,Male,New Zealand,NA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,NA,Very easy,No,No,Some of them,Yes,Maybe,Yes,NA,No,1
+29,Female,Canada,NA,No,No,Sometimes,1to5,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,No,Yes,No,1
+21,None,United Kingdom,NA,No,No,Sometimes,26to100,No,Yes,No,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,1
+27,Female,New Zealand,NA,No,Yes,Rarely,100to500,Yes,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,NA,No,1
+32,Female,Canada,NA,No,No,Often,MoreThan1000,No,No,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+34,Male,Australia,NA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+33,Male,United States,NY,No,No,NA,26to100,No,Yes,NA,No,NA,NA,NA,NA,Yes,No,Some of them,No,No,Maybe,NA,No,0
+22,Male,Netherlands,NA,No,Yes,Sometimes,6to26,Yes,Yes,No,Not sure,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,1
+24,Male,United States,CA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,0
+65,Male,United States,FL,Yes,No,NA,6to26,Yes,No,No,No,No,No,NA,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,0
+27,Male,United States,OR,No,Yes,Sometimes,100to500,Yes,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,No,No,No,Yes,No,1
+33,Male,Australia,NA,No,No,Never,MoreThan1000,No,Yes,NA,Not sure,NA,NA,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,0
+36,Male,United States,CO,No,No,Rarely,26to100,No,Yes,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,1
+40,Male,Canada,NA,No,No,Never,26to100,No,Yes,No,No,No,No,NA,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,0
+28,Male,United States,GA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,1
+39,Male,United States,OR,No,No,Sometimes,500to1000,No,Yes,Yes,Not sure,Yes,NA,Yes,NA,Yes,Maybe,Yes,Yes,No,Maybe,NA,No,1
+32,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,No,No,Yes,NA,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,NA,No,1
+31,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No,0
+38,Male,United States,PA,No,Yes,Sometimes,100to500,No,Yes,NA,No,No,No,NA,NA,Maybe,Maybe,Some of them,No,No,No,NA,No,1
+23,Male,United States,CA,No,Yes,Rarely,1to5,No,Yes,No,Yes,No,No,NA,NA,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+42,Male,United States,CA,No,No,Often,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,NA,No,1
+27,Female,United States,NY,No,No,Sometimes,500to1000,No,Yes,NA,Not sure,NA,Yes,NA,NA,No,No,Some of them,Yes,No,No,Yes,No,0
+26,Female,United States,MA,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,1
+50,Male,United States,NA,No,No,Never,26to100,Yes,Yes,No,Yes,No,No,NA,NA,No,No,No,No,No,Maybe,No,No,0
+37,Male,United States,PA,No,Yes,Never,26to100,No,Yes,NA,No,No,NA,NA,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,0
+23,Male,United States,RI,No,No,NA,26to100,No,Yes,NA,No,NA,No,NA,NA,No,No,Yes,Yes,No,Maybe,NA,No,0
+33,Male,United States,MI,No,Yes,Sometimes,6to26,Yes,Yes,NA,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,0
+29,Male,Canada,NA,Yes,No,Never,26to100,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,0
+34,Male,United States,IL,No,Yes,Sometimes,26to100,Yes,No,Yes,No,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,1
+41,Male,United States,CA,No,Yes,Often,MoreThan1000,No,Yes,Yes,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,Yes,1
+50,Male,United States,OR,No,Yes,NA,100to500,Yes,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+29,Male,Canada,NA,No,No,Never,MoreThan1000,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,NA,Yes,1
+35,Male,United States,IN,No,No,Never,6to26,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+27,Male,Singapore,NA,No,No,Sometimes,1to5,Yes,Yes,No,No,No,No,Yes,NA,Yes,No,Some of them,Yes,No,No,No,No,0
+40,Female,United States,MA,No,No,Never,26to100,No,No,NA,Not sure,No,No,NA,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,NA,No,0
+27,Male,Australia,NA,No,No,Often,100to500,Yes,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,No,Yes,1
+29,Female,United States,MI,No,No,Never,26to100,No,Yes,Yes,Yes,Yes,No,Yes,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,Yes,0
+31,Male,United States,OH,No,Yes,Sometimes,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,NA,No,1
+43,Male,United States,OH,No,No,Sometimes,6to26,No,Yes,No,Yes,No,No,NA,Somewhat easy,No,No,Yes,Yes,No,Maybe,NA,No,1
+34,Male,United States,NH,No,Yes,Sometimes,26to100,Yes,Yes,Yes,Yes,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Yes,NA,Yes,1
+29,Male,United States,OH,No,Yes,Sometimes,26to100,No,Yes,NA,No,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,NA,No,1
+19,Male,Canada,NA,No,Yes,Sometimes,1to5,No,Yes,No,No,No,No,NA,NA,Maybe,Maybe,Some of them,No,No,Maybe,NA,No,1
+41,Male,United States,TN,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Not sure,Yes,Yes,NA,NA,Maybe,No,Some of them,Some of them,No,No,No,No,1
+29,Male,United States,OR,No,Yes,Never,100to500,No,Yes,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+23,Male,United States,PA,No,No,Rarely,100to500,No,Yes,Yes,Not sure,NA,NA,NA,NA,No,No,Some of them,Some of them,No,No,Yes,No,0
+24,Female,United States,NA,No,Yes,Sometimes,100to500,No,Yes,Yes,Not sure,No,No,NA,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,1
+31,Male,United States,NY,No,No,NA,26to100,Yes,Yes,NA,No,No,NA,NA,NA,Yes,No,No,No,No,Maybe,NA,No,0
+43,Male,United States,WA,No,No,NA,500to1000,Yes,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Yes,Yes,No,No,Yes,No,0
+31,Male,United States,NY,No,Yes,Rarely,100to500,No,Yes,No,No,No,NA,NA,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,1
+29,Male,United States,CA,No,Yes,Often,100to500,No,Yes,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+35,Male,United States,TN,Yes,Yes,NA,6to26,Yes,Yes,No,No,Yes,Yes,NA,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,0
+33,Male,United States,WI,No,Yes,Sometimes,100to500,No,No,Yes,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,1
+30,None,United States,WI,Yes,Yes,Often,1to5,Yes,No,No,Yes,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,1
+27,Male,United States,PA,No,No,NA,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,Yes,NA,Maybe,Maybe,No,No,No,Maybe,No,No,0
+32,Male,United States,MI,No,No,Sometimes,100to500,No,Yes,No,Yes,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,No,No,0
+50,Male,United States,WY,No,No,Sometimes,1to5,Yes,Yes,NA,No,No,NA,NA,NA,Yes,Maybe,Some of them,Some of them,No,Maybe,NA,No,0
+24,Male,United States,KY,No,No,Never,26to100,No,No,NA,Not sure,No,No,NA,NA,Maybe,Yes,Some of them,No,No,Maybe,No,No,0
+27,Male,United States,NY,No,No,NA,26to100,No,Yes,NA,No,No,No,NA,NA,No,No,Yes,Yes,No,Maybe,Yes,No,0
+27,Male,Australia,NA,No,No,Never,1to5,Yes,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,Maybe,NA,No,0
+32,Male,United States,TX,No,No,Sometimes,6to26,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,1
+42,Male,United States,WI,Yes,No,Rarely,6to26,Yes,No,No,Yes,No,No,NA,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+37,Male,United States,WA,No,No,Often,MoreThan1000,No,No,NA,No,No,No,NA,NA,Maybe,No,Some of them,No,No,No,No,No,0
+30,Male,Singapore,NA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,0
+29,Male,United States,WA,No,No,Rarely,MoreThan1000,No,Yes,Yes,No,No,No,NA,Very easy,Yes,Maybe,Some of them,No,No,No,NA,No,0
+30,Male,United States,GA,Yes,No,Often,6to26,Yes,Yes,No,Not sure,No,Yes,NA,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,1
+35,Male,United States,MI,No,No,Never,26to100,No,Yes,Yes,No,Yes,NA,NA,NA,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,0
+35,Male,United States,MD,No,Yes,Rarely,100to500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,1
+38,Male,Netherlands,NA,No,Yes,Often,26to100,Yes,Yes,No,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,0
+22,Male,United Kingdom,NA,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,1
+24,Male,Germany,NA,No,Yes,Sometimes,100to500,No,Yes,NA,No,No,No,NA,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,NA,No,0
+22,Male,Netherlands,NA,Yes,No,Never,1to5,No,Yes,NA,Not sure,No,No,NA,NA,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,0
+31,Female,United States,WA,No,No,Often,26to100,Yes,Yes,Yes,Yes,No,No,NA,Very easy,Maybe,No,Some of them,Some of them,No,Yes,NA,No,1
+23,Female,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,NA,No,1
+31,Female,United States,OR,No,Yes,Sometimes,100to500,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Some of them,No,No,NA,No,1
+28,Female,United States,CA,No,Yes,Rarely,500to1000,No,Yes,Yes,Yes,Yes,Yes,NA,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,1
+37,None,Canada,NA,No,Yes,Sometimes,100to500,No,No,Yes,Yes,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,1
+34,Male,United States,CA,Yes,Yes,Sometimes,6to26,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,1
+32,None,Canada,NA,No,No,Sometimes,26to100,Yes,Yes,No,Yes,No,No,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,0
+28,Male,United States,MI,No,Yes,Sometimes,26to100,Yes,Yes,Yes,Not sure,No,NA,NA,NA,Yes,No,Some of them,Some of them,No,No,NA,Yes,1
+24,Female,United Kingdom,NA,No,No,Sometimes,100to500,No,Yes,No,No,No,No,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,1
+56,Male,United States,MA,No,Yes,Rarely,6to26,No,Yes,Yes,Yes,No,No,NA,NA,Yes,Maybe,Some of them,Some of them,No,No,NA,No,1
+31,Male,Germany,NA,No,No,Sometimes,6to26,Yes,Yes,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+34,Female,United States,CA,No,No,Sometimes,100to500,Yes,Yes,Yes,Yes,No,NA,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+35,Male,Germany,NA,No,No,Rarely,100to500,No,No,NA,No,Yes,NA,NA,Very easy,No,No,Some of them,Yes,No,No,Yes,No,1
+28,Male,Germany,NA,No,No,Never,26to100,No,Yes,No,No,No,No,NA,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,NA,No,0
+36,Male,Poland,NA,Yes,Yes,Often,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes,1
+30,Male,United Kingdom,NA,No,No,Often,26to100,No,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+35,Male,United States,NA,Yes,No,NA,1to5,Yes,Yes,Yes,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,0
+49,Male,Japan,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,Yes,No,NA,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,1
+36,Male,Germany,NA,No,No,NA,26to100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+35,Male,Germany,NA,No,No,NA,26to100,No,Yes,No,No,No,No,NA,Very easy,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+29,Female,Australia,NA,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes,1
+57,Male,United States,CA,No,No,Never,26to100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,NA,Yes,0
+31,Female,Belgium,NA,No,Yes,Rarely,100to500,No,No,Yes,No,No,No,No,NA,Maybe,No,Some of them,No,No,No,NA,Yes,1
+37,Male,Ireland,NA,Yes,No,Never,6to26,No,Yes,No,No,No,No,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,0
+25,Male,Ireland,NA,No,Yes,Sometimes,26to100,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,No,No,1
+30,Male,Australia,NA,No,No,Sometimes,26to100,No,Yes,No,No,No,No,NA,Very easy,No,No,Some of them,Some of them,No,No,NA,No,0
+26,Female,Australia,NA,No,Yes,Sometimes,100to500,No,No,No,Yes,Yes,Yes,NA,Somewhat easy,No,No,Yes,Yes,No,No,NA,No,0
+22,Female,Netherlands,NA,No,No,Often,6to26,No,Yes,No,No,No,No,NA,NA,No,No,No,Some of them,No,Yes,NA,No,0
+39,Male,United States,FL,No,No,Rarely,MoreThan1000,Yes,No,NA,No,Yes,Yes,NA,NA,No,No,Some of them,Some of them,No,Maybe,NA,No,0
+29,Male,United Kingdom,NA,No,Yes,Never,100to500,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,No,No,No,No,No,No,1
+54,Male,United Kingdom,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,NA,Not sure,No,No,NA,Very easy,No,No,Some of them,Yes,Yes,Yes,NA,Yes,1
+34,Female,Australia,NA,No,Yes,Never,500to1000,No,No,NA,No,Yes,Yes,NA,NA,Yes,Maybe,No,No,No,No,NA,Yes,0
+32,Male,United States,WA,No,No,Never,500to1000,No,No,Yes,Not sure,Yes,Yes,NA,Very easy,Maybe,No,No,No,No,No,Yes,No,1
+25,Male,Nigeria,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,Maybe,No,Yes,Yes,No,Yes,NA,No,0
+29,Male,Poland,NA,No,No,Rarely,1to5,No,Yes,No,No,No,No,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No,0
+32,Male,Germany,NA,Yes,No,Never,1to5,Yes,Yes,No,No,No,No,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+30,Male,United Kingdom,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,NA,Yes,NA,Maybe,No,Some of them,Yes,No,Yes,Yes,No,1
+31,Male,Germany,NA,No,No,NA,6to26,No,Yes,NA,No,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+20,Female,Switzerland,NA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,0
+27,Male,United Kingdom,NA,No,No,Never,1to5,No,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+32,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,0
+26,Male,Ireland,NA,Yes,No,Never,1to5,Yes,Yes,No,No,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+30,Male,Italy,NA,No,No,Sometimes,MoreThan1000,No,No,NA,No,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,NA,No,0
+30,Male,Ireland,NA,No,No,Sometimes,26to100,Yes,Yes,No,No,NA,No,NA,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No,1
+22,Male,India,NA,Yes,No,NA,1to5,Yes,Yes,NA,No,NA,NA,NA,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes,0
+24,Male,Ireland,NA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,No,No,No,No,NA,No,0
+26,Male,Netherlands,NA,No,No,Never,26to100,No,Yes,No,No,No,No,NA,NA,Maybe,Maybe,No,No,No,No,NA,No,0
+43,Male,France,NA,No,No,NA,100to500,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+26,Male,Russia,NA,No,No,Never,26to100,No,Yes,No,Not sure,No,NA,NA,Somewhat difficult,No,No,Some of them,No,No,Maybe,NA,No,0
+23,Male,United States,NC,No,Yes,Sometimes,6to26,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,0
+26,Male,Canada,NA,No,No,NA,100to500,Yes,Yes,Yes,Not sure,NA,Yes,NA,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,0
+26,Female,Israel,NA,No,Yes,Never,100to500,No,Yes,NA,No,NA,NA,NA,NA,Maybe,No,Some of them,No,No,No,Yes,No,0
+35,Male,Canada,NA,No,Yes,Sometimes,26to100,No,Yes,NA,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,No,No,0
+28,Male,United States,IL,No,No,Sometimes,26to100,Yes,No,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,1
+22,Male,India,NA,No,No,NA,26to100,No,Yes,No,No,No,No,NA,NA,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,NA,No,0
+29,Female,United States,OH,No,Yes,Rarely,6to26,No,Yes,NA,No,No,No,NA,NA,Yes,No,No,No,No,No,NA,No,1
+29,Male,Germany,NA,Yes,No,NA,1to5,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,0
+45,Male,United States,VA,No,No,Often,1to5,Yes,Yes,Yes,Not sure,No,Yes,NA,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,1
+33,Male,Bulgaria,NA,No,No,Rarely,26to100,Yes,Yes,No,No,No,No,NA,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,NA,Yes,1
+38,Male,United States,MN,No,No,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Yes,No,No,NA,No,1
+19,None,United States,MO,No,Yes,Often,26to100,No,No,NA,Not sure,No,No,NA,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,1
+29,Female,Canada,NA,No,No,Rarely,MoreThan1000,Yes,No,Yes,Yes,Yes,NA,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,NA,No,1
+21,Female,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,Yes,Maybe,Some of them,No,No,No,NA,No,0
+23,Female,India,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,No,NA,NA,NA,Yes,Maybe,No,No,No,No,NA,No,1
+33,Female,United States,NC,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,1
+49,Male,United States,NY,No,Yes,Sometimes,100to500,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,1
+28,Male,United States,NM,No,No,NA,26to100,Yes,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+27,Female,United Kingdom,NA,No,No,Sometimes,6to26,Yes,Yes,NA,Not sure,Yes,NA,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+23,Male,Canada,NA,No,No,Sometimes,6to26,No,Yes,Yes,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+29,Male,Netherlands,NA,No,No,Never,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,0
+30,Male,Germany,NA,No,No,NA,26to100,No,Yes,NA,No,No,NA,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Maybe,NA,No,0
+28,Female,Canada,NA,No,No,NA,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+32,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,Yes,No,No,0
+32,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,No,Yes,Yes,No,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,1
+37,Male,France,NA,No,No,NA,100to500,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,0
+39,Female,United States,TX,No,No,NA,MoreThan1000,Yes,No,No,Yes,No,No,NA,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,0
+31,Male,France,NA,No,No,NA,500to1000,No,Yes,NA,No,No,NA,NA,NA,Maybe,Maybe,Some of them,No,No,No,Yes,No,0
+29,Male,United States,SC,No,No,NA,6to26,No,Yes,No,No,No,NA,NA,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,NA,No,0
+30,Male,United States,FL,No,No,NA,100to500,No,No,Yes,No,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,0
+33,Male,United States,WA,Yes,Yes,Rarely,1to5,Yes,Yes,No,Yes,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,1
+37,Male,United States,CA,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,NA,NA,Yes,NA,Maybe,No,Yes,Yes,No,No,NA,No,1
+23,Male,United States,OH,No,No,Often,26to100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+43,Male,United States,TN,No,Yes,Sometimes,26to100,No,No,Yes,Not sure,No,Yes,NA,Somewhat easy,Yes,No,No,No,No,No,No,No,1
+32,Male,United Kingdom,NA,No,No,Rarely,100to500,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Yes,Yes,No,Maybe,No,Yes,1
+26,Male,United States,NY,No,No,Never,26to100,No,Yes,NA,Not sure,No,No,NA,NA,Yes,Yes,Some of them,No,No,No,No,No,0
+32,Male,United States,NY,Yes,No,Sometimes,1to5,Yes,Yes,NA,Not sure,NA,NA,NA,Very easy,No,No,Yes,Yes,Yes,Yes,NA,No,1
+37,Female,United States,MO,No,No,NA,26to100,Yes,Yes,NA,Not sure,No,NA,NA,NA,Yes,No,Some of them,No,No,No,NA,No,0
+29,Male,United States,NY,No,No,Often,26to100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+34,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,NA,No,0
+27,Male,France,NA,No,No,NA,6to26,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Yes,Yes,No,No,Yes,No,0
+30,Male,United States,TN,No,Yes,Never,100to500,No,Yes,NA,No,No,NA,NA,Very easy,No,No,Some of them,Yes,No,Maybe,NA,No,0
+29,Male,United States,CO,No,No,Never,6to26,No,Yes,Yes,Yes,No,Yes,Yes,NA,Maybe,No,Some of them,Some of them,No,No,No,No,0
+32,Male,United States,PA,Yes,Yes,Sometimes,1to5,Yes,Yes,Yes,Yes,NA,NA,NA,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,1
+21,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,No,No,No,No,No,NA,Somewhat difficult,Yes,No,No,No,No,Maybe,NA,No,1
+25,Male,Germany,NA,No,No,NA,500to1000,No,Yes,Yes,Yes,NA,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No,0
+37,Male,United States,NY,Yes,No,NA,6to26,Yes,Yes,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+29,Male,Netherlands,NA,No,Yes,NA,6to26,No,Yes,No,No,No,No,NA,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+27,Male,United States,MN,No,No,NA,26to100,No,Yes,Yes,Not sure,No,NA,NA,NA,No,No,Yes,Yes,No,No,NA,No,0
+33,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+30,Male,Canada,NA,No,Yes,Sometimes,MoreThan1000,No,No,NA,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,1
+29,Male,Canada,NA,No,No,NA,1to5,Yes,Yes,No,Yes,No,No,NA,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,NA,No,0
+25,Male,United States,MO,No,Yes,Never,6to26,Yes,Yes,NA,No,Yes,NA,NA,NA,Yes,No,Some of them,Yes,No,No,No,No,1
+33,Male,United States,WY,No,Yes,Sometimes,1to5,No,No,No,Yes,No,No,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,1
+31,Male,South Africa,NA,No,No,Never,100to500,Yes,Yes,No,No,No,No,No,NA,No,No,Some of them,Some of them,No,Maybe,No,No,0
+21,Male,Germany,NA,No,No,Rarely,6to26,Yes,Yes,NA,No,No,No,NA,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,0
+30,Male,Switzerland,NA,No,Yes,Sometimes,26to100,No,Yes,NA,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,1
+29,Male,United States,MN,No,No,NA,MoreThan1000,No,No,NA,Not sure,NA,NA,NA,NA,No,No,Yes,Yes,No,No,No,No,0
+43,Male,Croatia,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,No,No,No,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes,1
+37,Male,United Kingdom,NA,No,No,Often,6to26,No,Yes,No,No,No,No,NA,NA,Yes,No,Yes,Yes,Maybe,Yes,No,No,1
+24,Male,France,NA,No,No,NA,26to100,No,Yes,No,No,Yes,No,NA,NA,Maybe,No,Yes,Some of them,No,No,NA,No,0
+29,Male,United States,MD,No,No,NA,6to26,Yes,Yes,NA,Not sure,No,No,NA,Very easy,No,No,Yes,Yes,No,No,NA,No,0
+31,Male,United States,KY,No,No,NA,26to100,No,No,Yes,Yes,Yes,Yes,Yes,NA,No,No,Yes,Yes,No,No,NA,No,0
+5,Male,United States,OH,No,No,NA,100to500,No,Yes,NA,Not sure,No,No,NA,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,0
+33,Male,United Kingdom,NA,Yes,No,Never,100to500,No,No,No,Not sure,No,No,NA,Very easy,No,No,Yes,Some of them,No,Yes,No,No,0
+43,Male,United States,NY,No,No,NA,MoreThan1000,No,No,Yes,Yes,NA,Yes,Yes,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+33,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,1
+27,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,No,No,No,Yes,Yes,NA,Maybe,No,Yes,Some of them,No,Yes,Yes,No,0
+36,Male,United States,TN,No,Yes,Sometimes,MoreThan1000,Yes,No,NA,No,NA,NA,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,1
+37,Male,Australia,NA,No,Yes,Sometimes,26to100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,1
+32,Male,Belgium,NA,No,No,NA,6to26,No,Yes,No,Yes,No,No,NA,Very difficult,Yes,Maybe,No,No,No,No,No,No,0
+39,Male,United Kingdom,NA,No,No,Sometimes,100to500,No,Yes,No,No,No,No,NA,Very easy,No,No,No,Some of them,No,Yes,Yes,No,1
+31,Male,United States,TX,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,No,NA,NA,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,NA,No,1
+36,Male,United States,OH,No,No,Sometimes,100to500,Yes,Yes,Yes,Yes,No,No,NA,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,1
+30,Male,United States,TX,Yes,No,Sometimes,26to100,Yes,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Some of them,No,Yes,NA,No,1
+28,Male,Canada,NA,No,No,NA,6to26,No,Yes,Yes,Not sure,No,NA,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+32,Male,Italy,NA,No,No,NA,6to26,No,Yes,No,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Maybe,No,No,0
+35,Male,United States,CA,No,Yes,Rarely,6to26,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,1
+19,Male,Canada,NA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,No,No,NA,Somewhat difficult,No,No,Some of them,Yes,No,Yes,NA,No,1
+33,Male,Norway,NA,No,Yes,NA,26to100,No,Yes,Yes,Yes,No,No,NA,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+42,Male,Germany,NA,No,No,NA,MoreThan1000,Yes,Yes,NA,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,0
+37,Male,United States,MI,No,Yes,Sometimes,100to500,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+40,Male,Thailand,NA,Yes,No,Never,6to26,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+36,Male,United States,CA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,0
+29,Female,United States,OR,No,Yes,Sometimes,26to100,Yes,No,NA,No,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,1
+38,Female,United States,NC,No,Yes,Sometimes,26to100,No,No,Yes,Not sure,No,NA,NA,NA,Maybe,No,No,No,No,No,NA,No,1
+26,Male,United States,CA,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,No,Yes,NA,NA,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,1
+34,Male,Germany,NA,No,No,Rarely,26to100,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No,0
+21,Male,United States,IL,No,No,Often,MoreThan1000,No,No,No,Yes,No,No,No,NA,Yes,No,Some of them,Some of them,No,Yes,No,Yes,1
+31,Male,Canada,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No,0
+37,Female,United States,CA,No,Yes,Rarely,26to100,No,No,Yes,Yes,Yes,Yes,NA,NA,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,1
+37,Male,Ireland,NA,No,Yes,Sometimes,1to5,No,Yes,No,No,No,No,NA,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+38,Male,Ireland,NA,No,Yes,Sometimes,1to5,No,Yes,No,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,1
+27,Female,United States,CA,No,No,Sometimes,100to500,No,Yes,NA,Not sure,Yes,NA,NA,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,1
+39,Male,Netherlands,NA,Yes,No,NA,6to26,No,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+33,Female,United States,AZ,Yes,Yes,Sometimes,1to5,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,1
+27,Male,United Kingdom,NA,No,No,Never,26to100,No,Yes,NA,Not sure,No,NA,NA,Somewhat easy,No,No,Some of them,No,Yes,Yes,NA,No,0
+36,Female,United States,CA,No,No,Never,6to26,Yes,Yes,Yes,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,No,No,1
+28,Male,United Kingdom,NA,No,No,Never,26to100,No,Yes,NA,Not sure,No,No,NA,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,NA,No,0
+39,Male,United Kingdom,NA,No,No,Sometimes,500to1000,No,No,NA,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+33,Male,United States,VA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,1
+32,Male,United Kingdom,NA,No,No,NA,MoreThan1000,No,No,NA,Not sure,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Yes,NA,No,0
+28,Male,United Kingdom,NA,No,No,NA,MoreThan1000,No,No,NA,Not sure,No,NA,NA,NA,No,No,Some of them,Some of them,Yes,Yes,No,No,0
+37,Male,United Kingdom,NA,No,Yes,Rarely,6to26,No,Yes,No,No,No,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,1
+39,Male,Canada,NA,No,No,Sometimes,100to500,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,1
+43,Male,United States,VA,No,No,Sometimes,6to26,Yes,Yes,NA,No,No,NA,NA,NA,Maybe,No,No,No,No,Maybe,No,No,0
+32,None,United Kingdom,NA,No,No,Sometimes,MoreThan1000,No,No,NA,No,Yes,Yes,NA,NA,No,No,Yes,Some of them,Yes,Yes,Yes,Yes,1
+27,Female,United States,WA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,No,Yes,NA,NA,Maybe,No,Some of them,Yes,No,No,NA,No,0
+31,Female,United Kingdom,NA,No,No,NA,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Yes,Yes,Maybe,Maybe,NA,No,0
+43,Male,United Kingdom,NA,No,No,Never,26to100,No,Yes,NA,No,No,NA,NA,NA,No,No,Yes,Yes,Yes,Yes,NA,No,1
+33,Male,United States,WI,No,No,Sometimes,6to26,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,NA,No,1
+34,Male,United Kingdom,NA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,NA,NA,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,1
+33,Male,United States,CA,Yes,No,NA,1to5,No,Yes,NA,No,No,No,NA,NA,No,No,Yes,Yes,No,Maybe,NA,No,0
+25,Male,United States,CA,No,No,NA,6to26,No,Yes,NA,No,No,No,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+25,Male,United States,NE,No,Yes,Sometimes,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,NA,Maybe,No,Some of them,Some of them,No,No,No,Yes,1
+32,Male,United Kingdom,NA,Yes,Yes,NA,1to5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,0
+25,Male,United States,CO,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,NA,NA,Yes,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,1
+37,Male,Netherlands,NA,No,No,NA,100to500,Yes,No,NA,No,NA,NA,NA,Somewhat easy,Maybe,No,Yes,Yes,No,No,NA,No,0
+39,Male,Switzerland,NA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,1
+29,Male,United Kingdom,NA,No,No,Rarely,100to500,No,Yes,NA,Not sure,No,No,NA,Somewhat easy,No,No,Some of them,Yes,No,Maybe,NA,Yes,0
+33,Male,United States,NY,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+37,Female,United States,TX,No,No,Often,6to26,Yes,Yes,NA,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,1
+35,Female,United States,LA,No,No,Sometimes,100to500,No,No,Yes,No,No,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes,1
+22,Female,United States,WA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,1
+38,Male,United States,MI,No,No,Never,26to100,No,Yes,Yes,Yes,No,No,NA,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,0
+32,Female,United States,CA,No,Yes,Often,100to500,No,Yes,Yes,No,No,NA,NA,NA,Yes,No,Some of them,Yes,No,No,NA,No,1
+28,Male,Brazil,NA,No,No,NA,26to100,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes,0
+27,Male,Switzerland,NA,No,Yes,NA,26to100,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,Yes,No,Yes,No,No,0
+35,Female,United States,CA,No,No,Sometimes,100to500,Yes,Yes,NA,No,NA,NA,NA,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,1
+29,Male,United States,MD,No,No,Never,100to500,No,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,NA,No,0
+23,Male,United States,CA,No,Yes,Sometimes,6to26,No,Yes,No,Yes,No,No,NA,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,1
+39,Male,United States,CT,No,No,NA,26to100,Yes,Yes,Yes,No,No,No,NA,NA,Yes,Maybe,No,No,No,No,NA,No,0
+30,Female,United States,CA,No,No,NA,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,0
+32,Male,United Kingdom,NA,No,No,NA,26to100,No,Yes,NA,Not sure,No,NA,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,0
+28,None,United States,CA,No,No,Sometimes,26to100,No,Yes,No,Yes,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,1
+40,Female,United States,WA,No,Yes,Sometimes,100to500,No,No,Yes,Yes,Yes,Yes,Yes,NA,Maybe,No,Some of them,Yes,No,No,NA,Yes,1
+36,Female,United States,CA,No,Yes,NA,6to26,No,Yes,NA,No,No,NA,NA,NA,No,No,No,Some of them,No,Maybe,Yes,No,0
+27,Male,United States,IN,No,No,NA,26to100,Yes,Yes,NA,Not sure,No,NA,NA,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+41,Male,United States,TX,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,Yes,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,No,No,0
+29,Male,United Kingdom,NA,No,No,Never,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+29,Male,United Kingdom,NA,No,No,Sometimes,100to500,No,Yes,No,No,No,No,NA,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,1
+35,Male,United States,MO,No,No,Often,1to5,No,No,No,No,No,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,1
+28,Male,United States,NV,No,No,Never,6to26,Yes,Yes,No,Yes,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+36,Female,United Kingdom,NA,Yes,No,Sometimes,1to5,Yes,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+39,Female,United States,WA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,No,NA,NA,NA,Yes,No,No,No,No,Yes,NA,No,0
+39,Male,United States,FL,No,Yes,Sometimes,500to1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,NA,No,1
+44,Male,United States,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,1
+26,None,Germany,NA,Yes,No,Sometimes,6to26,Yes,Yes,No,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,1
+35,Male,Denmark,NA,Yes,Yes,Often,1to5,No,Yes,No,Yes,Yes,No,NA,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,1
+40,Female,United States,WA,No,Yes,Sometimes,100to500,No,No,Yes,Not sure,Yes,NA,NA,NA,Yes,Maybe,Some of them,No,No,No,NA,No,1
+35,Male,Denmark,NA,Yes,Yes,Often,1to5,No,Yes,No,Yes,Yes,No,NA,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,1
+38,Male,United States,IL,No,No,Never,MoreThan1000,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,NA,No,0
+34,Male,United States,FL,No,No,NA,MoreThan1000,Yes,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+43,Male,United States,MA,No,No,NA,MoreThan1000,No,Yes,Yes,No,Yes,Yes,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+48,None,United States,CA,No,Yes,Often,26to100,No,Yes,NA,No,No,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,0
+20,Male,United States,WA,No,No,Never,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+40,Male,United States,MI,Yes,No,Sometimes,1to5,Yes,Yes,NA,Not sure,No,No,NA,Somewhat easy,Yes,Maybe,Some of them,No,No,No,NA,No,0
+29,Female,United Kingdom,NA,No,No,Rarely,6to26,No,Yes,NA,No,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,1
+35,Male,United States,MI,No,Yes,Sometimes,1to5,No,No,No,Yes,No,No,Yes,NA,No,No,Some of them,Yes,No,No,Yes,No,1
+29,Male,United States,WI,No,Yes,Sometimes,MoreThan1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,0
+40,Male,United States,CA,No,No,Never,100to500,No,Yes,Yes,Not sure,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+29,Male,Sweden,NA,No,No,Rarely,6to26,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,1
+29,Female,United States,CA,No,Yes,Rarely,100to500,No,Yes,Yes,Not sure,NA,No,NA,NA,No,No,Yes,Yes,No,Maybe,NA,No,1
+34,Male,United States,TX,No,No,Sometimes,1to5,No,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,Yes,NA,No,1
+44,Male,United Kingdom,NA,No,Yes,Sometimes,500to1000,No,No,NA,No,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,1
+24,Female,United States,NY,No,Yes,Often,6to26,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,1
+47,Female,United States,PA,No,No,NA,100to500,Yes,Yes,NA,No,No,NA,NA,Very difficult,Yes,Yes,No,No,No,No,No,No,0
+43,Male,United Kingdom,NA,No,Yes,NA,MoreThan1000,No,No,NA,No,No,No,NA,Very easy,Maybe,No,Some of them,Yes,No,Maybe,NA,No,0
+36,Male,United States,PA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,0
+43,Male,United States,GA,No,No,Sometimes,MoreThan1000,No,No,NA,No,No,NA,NA,Very difficult,Maybe,No,Some of them,Yes,No,No,NA,No,1
+36,Male,United Kingdom,NA,Yes,No,Sometimes,6to26,Yes,Yes,No,No,No,No,NA,Somewhat difficult,No,No,Yes,Yes,No,Maybe,NA,Yes,0
+31,Female,United States,NY,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,No,No,NA,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,NA,No,1
+35,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,NA,Not sure,Yes,NA,NA,NA,Maybe,No,Some of them,No,No,No,NA,No,0
+33,Male,United States,TN,No,Yes,NA,26to100,No,No,Yes,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,NA,No,0
+37,Male,Italy,NA,No,No,Sometimes,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,Yes,Yes,Some of them,No,No,No,No,No,0
+34,Male,United States,TN,No,No,Sometimes,100to500,No,Yes,NA,No,Yes,NA,Yes,NA,Maybe,No,Some of them,No,No,No,NA,No,1
+36,Male,Netherlands,NA,Yes,No,Sometimes,1to5,No,Yes,No,No,No,No,NA,Very easy,No,No,Yes,No,No,No,Yes,No,1
+40,Male,United States,TN,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,1
+40,Male,United States,IL,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,No,No,Some of them,Some of them,No,Maybe,NA,No,0
+42,Male,United States,WI,No,No,Sometimes,1to5,Yes,Yes,No,Yes,No,No,NA,Somewhat easy,Maybe,No,No,No,No,Maybe,NA,No,1
+23,Male,United States,KY,No,Yes,NA,26to100,Yes,Yes,Yes,Yes,No,NA,Yes,NA,Maybe,No,No,Some of them,No,No,NA,No,0
+21,Male,United Kingdom,NA,No,Yes,Never,6to26,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+26,Male,Canada,NA,No,No,Sometimes,6to26,Yes,Yes,No,No,No,No,NA,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,NA,No,0
+31,Male,United States,NA,No,Yes,NA,6to26,No,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,No,NA,No,0
+25,Male,United States,CA,No,Yes,NA,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,0
+51,Male,United States,MN,No,No,Never,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,0
+24,Male,United States,TN,No,No,NA,6to26,No,Yes,NA,Not sure,NA,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,NA,No,0
+33,Male,United States,MN,No,No,NA,100to500,No,Yes,No,No,No,No,NA,NA,Maybe,No,Some of them,Yes,No,No,No,No,0
+32,Male,United Kingdom,NA,No,Yes,Rarely,6to26,No,No,No,No,No,No,No,NA,Yes,Maybe,Some of them,No,No,No,No,No,1
+32,Male,United Kingdom,NA,No,Yes,Rarely,6to26,No,No,No,No,No,No,No,NA,Yes,Maybe,Some of them,No,No,No,No,No,1
+26,Male,United Kingdom,NA,Yes,No,Rarely,1to5,Yes,Yes,No,Not sure,NA,NA,NA,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+23,Male,United States,IL,No,No,Never,100to500,No,No,NA,No,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+33,Male,United States,TN,No,Yes,Often,6to26,Yes,Yes,No,Yes,No,No,NA,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,1
+46,Male,United States,IL,No,No,Rarely,MoreThan1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,1
+34,Male,United Kingdom,NA,No,No,NA,6to26,Yes,Yes,No,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,0
+35,Male,United States,DC,No,Yes,Sometimes,6to26,No,Yes,Yes,Yes,No,No,NA,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+39,Male,United States,KS,No,No,NA,1to5,Yes,Yes,No,Yes,No,No,NA,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,0
+32,Male,Germany,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,0
+43,Male,Mexico,NA,Yes,No,NA,MoreThan1000,Yes,Yes,NA,No,No,NA,NA,NA,No,No,Some of them,Yes,No,Maybe,NA,No,0
+56,Male,United States,CA,No,No,Rarely,MoreThan1000,Yes,Yes,Yes,Yes,NA,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+32,Female,United Kingdom,NA,No,Yes,Sometimes,100to500,No,Yes,NA,No,No,No,NA,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,NA,Yes,1
+41,Male,United Kingdom,NA,No,No,NA,26to100,No,No,Yes,Yes,Yes,Yes,Yes,NA,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,0
+39,Male,United States,TN,No,No,NA,MoreThan1000,Yes,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+37,Male,United States,OK,No,Yes,NA,500to1000,No,No,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No,0
+30,Male,United States,CA,Yes,Yes,Sometimes,6to26,Yes,Yes,NA,Not sure,No,NA,NA,Very difficult,Yes,No,No,No,No,Maybe,NA,No,1
+31,Male,United States,TN,No,No,NA,26to100,No,Yes,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,0
+29,Male,United States,TX,No,No,NA,MoreThan1000,No,No,NA,Not sure,No,NA,NA,NA,Maybe,No,No,Some of them,No,Maybe,NA,No,0
+23,Female,United Kingdom,NA,No,Yes,Never,MoreThan1000,No,No,No,No,No,Yes,NA,Somewhat easy,Yes,Maybe,No,No,No,Maybe,NA,No,0
+31,Male,United States,CO,No,No,Never,26to100,No,Yes,Yes,Yes,No,NA,Yes,Very easy,Maybe,No,No,No,No,No,NA,No,1
+29,Male,United States,TN,No,Yes,Sometimes,26to100,No,Yes,NA,Not sure,NA,NA,NA,NA,Maybe,No,Some of them,Some of them,No,No,Yes,No,1
+30,Male,United States,GA,No,No,Never,26to100,Yes,Yes,Yes,Yes,NA,NA,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,0
+37,Male,United States,TN,No,No,Never,500to1000,Yes,Yes,Yes,No,Yes,NA,NA,NA,Maybe,No,Some of them,Yes,No,No,Yes,Yes,0
+36,Male,United States,VA,Yes,No,Never,1to5,No,Yes,Yes,No,No,NA,NA,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,0
+35,Male,United States,TN,No,Yes,Sometimes,26to100,Yes,Yes,Yes,Yes,No,NA,NA,NA,Maybe,Maybe,Some of them,No,No,Maybe,No,No,1
+41,Male,United States,DC,No,Yes,Never,500to1000,Yes,No,NA,No,No,No,NA,NA,Maybe,No,No,No,No,No,NA,No,0
+31,Male,United Kingdom,NA,No,No,Rarely,6to26,No,Yes,NA,Not sure,No,No,NA,NA,No,No,Some of them,Yes,No,No,NA,No,1
+38,Male,United Kingdom,NA,No,Yes,NA,500to1000,No,No,Yes,Yes,Yes,Yes,NA,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,0
+26,Male,India,NA,Yes,No,NA,100to500,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,0
+39,Male,United States,TN,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,No,Yes,Yes,NA,NA,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,NA,Yes,0
+42,Male,United States,VA,Yes,Yes,Sometimes,6to26,Yes,No,Yes,Not sure,NA,Yes,NA,NA,Maybe,Maybe,Some of them,No,No,Maybe,NA,No,0
+32,Male,United States,TN,Yes,Yes,Rarely,1to5,Yes,Yes,No,Yes,No,No,NA,Very difficult,Yes,No,Some of them,No,No,Maybe,NA,No,1
+29,Male,United States,TN,No,Yes,NA,100to500,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,No,No,NA,No,0
+30,Male,United States,TN,No,Yes,Never,100to500,No,Yes,Yes,No,NA,Yes,NA,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,0
+40,Male,United States,TN,No,Yes,Often,500to1000,Yes,Yes,NA,Not sure,No,NA,NA,NA,Maybe,Maybe,Some of them,Some of them,No,Yes,NA,No,1
+51,Male,United States,TN,No,No,NA,100to500,No,No,NA,Not sure,No,NA,NA,Somewhat difficult,No,No,Some of them,Yes,No,No,NA,No,0
+33,Male,United States,IN,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,0
+34,Male,Germany,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+50,Male,United States,VA,Yes,No,Never,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+24,Male,United States,TX,No,No,Sometimes,26to100,Yes,Yes,NA,No,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,0
+25,Male,United States,TX,No,Yes,Rarely,26to100,No,No,No,No,No,No,NA,NA,Yes,Maybe,No,No,No,Maybe,No,No,1
+43,Male,United Kingdom,NA,No,Yes,Rarely,26to100,No,Yes,No,No,No,No,NA,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,1
+25,Female,United States,CA,Yes,No,Often,1to5,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,1
+24,Male,United Kingdom,NA,Yes,No,NA,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,No,No,No,Maybe,Yes,No,0
+51,Male,United States,CO,Yes,No,Never,1to5,No,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+49,Male,United States,OR,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,1
+30,Male,United States,OK,No,No,NA,MoreThan1000,Yes,Yes,Yes,No,Yes,Yes,NA,NA,Yes,Maybe,No,No,No,No,NA,No,0
+25,Female,United States,OH,No,Yes,Sometimes,MoreThan1000,No,Yes,Yes,Yes,Yes,No,NA,NA,Yes,Yes,No,No,No,No,No,No,1
+36,Male,United States,TN,No,No,Rarely,500to1000,Yes,Yes,Yes,Yes,NA,NA,NA,NA,Maybe,No,No,No,No,Maybe,NA,No,1
+48,Male,United States,VA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,1
+48,Male,Australia,NA,No,No,Sometimes,6to26,No,Yes,No,No,No,No,NA,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes,1
+53,Male,United States,OR,No,No,Rarely,6to26,Yes,Yes,Yes,Yes,No,Yes,NA,NA,Maybe,Maybe,Some of them,No,No,No,NA,No,1
+24,Female,United Kingdom,NA,No,Yes,Often,6to26,Yes,Yes,No,No,No,No,NA,Very easy,No,No,Yes,Yes,No,No,NA,No,1
+33,Male,United States,OR,No,Yes,Sometimes,26to100,No,Yes,NA,Yes,No,Yes,NA,Somewhat easy,No,No,Yes,Yes,No,No,NA,No,1
+25,Female,Canada,NA,No,Yes,Sometimes,6to26,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,1
+30,Male,United Kingdom,NA,No,No,Sometimes,26to100,No,Yes,No,No,No,No,NA,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,1
+30,Male,United States,PA,Yes,No,Never,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,NA,No,0
+34,Male,United Kingdom,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,1
+31,Male,United States,SC,No,No,NA,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,0
+22,Female,United States,CA,No,Yes,Often,MoreThan1000,No,Yes,NA,Not sure,No,NA,NA,NA,Yes,Yes,No,No,No,No,NA,No,1
+28,Male,United States,TN,No,Yes,Sometimes,6to26,No,Yes,NA,Not sure,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,Yes,NA,No,0
+35,Male,United States,UT,No,Yes,Rarely,26to100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,1
+28,Male,United States,CA,No,Yes,Sometimes,26to100,No,No,Yes,No,No,No,NA,NA,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,1
+42,Male,New Zealand,NA,No,No,Sometimes,MoreThan1000,No,No,No,Yes,NA,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,1
+33,Male,United States,MO,No,Yes,NA,500to1000,No,Yes,Yes,No,NA,NA,NA,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,0
+29,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,No,Yes,No,NA,NA,Yes,Maybe,No,No,No,No,NA,No,0
+43,Male,United States,NA,No,Yes,Sometimes,500to1000,No,No,Yes,Not sure,No,NA,NA,NA,Maybe,No,No,Some of them,No,Maybe,No,No,0
+29,Male,United States,NY,No,No,NA,26to100,No,Yes,Yes,Yes,Yes,Yes,NA,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,0
+25,Male,United States,TX,No,No,NA,100to500,Yes,Yes,Yes,No,No,No,Yes,NA,No,No,Yes,Yes,Maybe,Maybe,NA,No,0
+31,Male,United States,MO,No,Yes,Never,100to500,No,Yes,NA,No,NA,NA,NA,Very easy,No,No,Some of them,Yes,No,No,NA,No,0
+35,Female,United States,GA,No,Yes,Sometimes,6to26,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,1
+34,Male,United States,TX,No,No,Often,1to5,No,Yes,NA,No,No,Yes,NA,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,0
+43,None,United States,WA,No,No,Sometimes,100to500,Yes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,1
+38,Male,United States,WA,No,Yes,Sometimes,100to500,No,Yes,No,Not sure,No,No,NA,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No,1
+26,Male,United States,WA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,Not sure,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,1
+38,Male,United Kingdom,NA,Yes,Yes,Rarely,1to5,Yes,No,No,No,No,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No,1
+42,Male,United States,TX,No,No,Often,6to26,No,Yes,NA,No,No,NA,NA,NA,Yes,Maybe,No,No,No,Maybe,NA,No,1
+33,Male,Netherlands,NA,No,Yes,NA,6to26,No,Yes,NA,No,No,NA,NA,NA,No,No,Yes,Yes,Maybe,Maybe,Yes,Yes,1
+32,Male,United States,WA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+44,Male,United States,WA,No,Yes,Sometimes,6to26,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,1
+28,Male,United States,WA,No,Yes,Rarely,MoreThan1000,No,Yes,Yes,Yes,NA,NA,NA,NA,Maybe,No,Some of them,No,No,No,No,No,1
+40,Male,United States,WA,No,Yes,Sometimes,MoreThan1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,NA,Yes,1
+31,Female,United States,AZ,No,Yes,Sometimes,500to1000,No,Yes,Yes,Yes,No,NA,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,1
+32,Male,United States,WA,No,Yes,Sometimes,100to500,No,Yes,Yes,Yes,Yes,Yes,NA,NA,Yes,No,Some of them,No,No,No,NA,No,0
+28,Male,United States,WA,No,Yes,Sometimes,MoreThan1000,No,Yes,NA,No,NA,NA,NA,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,1
+39,Male,United States,AZ,No,Yes,Often,26to100,No,Yes,Yes,Yes,No,No,Yes,NA,Yes,No,Some of them,No,No,No,No,No,1
+45,Male,United States,NY,No,No,NA,MoreThan1000,No,No,Yes,Yes,Yes,Yes,NA,NA,No,No,Some of them,Some of them,No,No,Yes,No,0
+43,Male,United States,WA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,NA,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,1
+35,Male,United States,CA,No,No,Sometimes,MoreThan1000,No,Yes,Yes,Yes,NA,Yes,NA,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,NA,No,1
+40,Male,United States,WA,No,Yes,Sometimes,6to26,No,Yes,Yes,Yes,NA,NA,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,NA,No,1
+34,Male,Netherlands,NA,No,No,Rarely,26to100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,1
+24,Male,United Kingdom,NA,No,Yes,Often,26to100,No,No,NA,Yes,No,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,1
+61,Male,South Africa,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,No,No,No,NA,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,1
+36,Female ,United States,WA,No,Yes,Rarely,6to26,No,Yes,NA,No,No,NA,NA,NA,Yes,Maybe,Some of them,No,No,No,NA,No,1
+38,Male,United States,TN,No,No,NA,6to26,No,Yes,No,No,No,No,Yes,NA,Maybe,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+33,Male,Germany,NA,No,Yes,Often,26to100,No,Yes,NA,Not sure,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,1
+30,Male,United States,WA,No,Yes,Never,MoreThan1000,No,No,NA,No,No,NA,NA,NA,Yes,Maybe,No,No,No,No,No,No,0
+34,Male,Netherlands,NA,Yes,Yes,Rarely,1to5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No,1
+26,Male,United States,CA,No,No,Rarely,MoreThan1000,No,Yes,Yes,Not sure,NA,NA,NA,NA,No,No,Some of them,Some of them,No,Maybe,No,No,1
+33,Male,United Kingdom,NA,No,No,NA,MoreThan1000,No,Yes,NA,Not sure,NA,NA,NA,NA,No,No,Some of them,Yes,Maybe,Maybe,NA,No,0
+32,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,NA,No,No,No,NA,Very easy,No,No,No,Yes,No,Maybe,No,No,0
+25,Male,Germany,NA,Yes,No,Sometimes,6to26,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,0
+35,Male,Germany,NA,Yes,No,Sometimes,26to100,Yes,No,NA,No,No,No,NA,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,NA,No,1
+24,Male,United Kingdom,NA,Yes,Yes,Often,1to5,Yes,Yes,NA,Not sure,No,No,NA,NA,Maybe,No,Some of them,Some of them,No,Maybe,NA,No,0
+55,Male,United Kingdom,NA,No,No,Often,MoreThan1000,No,No,Yes,Yes,Yes,Yes,NA,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,1
+33,Male,United Kingdom,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,1
+26,Female,United Kingdom,NA,Yes,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,NA,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,1
+25,Male,United Kingdom,NA,No,No,Never,6to26,Yes,Yes,NA,Not sure,NA,NA,NA,Very easy,No,No,Yes,Yes,No,No,NA,No,0
+45,Male,United Kingdom,NA,No,Yes,Rarely,100to500,No,No,NA,No,No,No,NA,NA,Maybe,No,Some of them,No,No,Maybe,NA,No,0
+33,Female,United Kingdom,NA,Yes,No,Sometimes,1to5,Yes,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,NA,No,1
+43,Male,United States,MI,No,No,Sometimes,MoreThan1000,Yes,Yes,No,Not sure,No,No,NA,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,0
+30,Male,United Kingdom,NA,Yes,No,Sometimes,6to26,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes,1
+40,Male,United States,IN,No,Yes,Rarely,6to26,No,Yes,NA,Not sure,No,NA,NA,NA,No,No,Yes,Yes,No,Maybe,NA,No,1
+49,Male,United States,GA,No,Yes,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,NA,No,No,Yes,Yes,No,No,Yes,No,0
+29,Male,Germany,NA,No,No,NA,6to26,No,Yes,NA,Not sure,No,No,NA,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,NA,No,0
+26,Male,Germany,NA,No,No,NA,500to1000,No,Yes,NA,No,NA,NA,NA,NA,No,No,Some of them,Some of them,Maybe,Maybe,NA,No,0
+38,None,United States,WA,No,No,Never,MoreThan1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,0
+27,Male,France,NA,No,Yes,NA,500to1000,No,No,Yes,Yes,NA,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,NA,Yes,0
+26,Male,Belgium,NA,No,No,Never,6to26,No,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,No,NA,No,0
+28,Male,United Kingdom,NA,No,Yes,Often,26to100,No,Yes,No,No,No,No,NA,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,1
+40,Male,United States,ME,No,Yes,Sometimes,1to5,Yes,Yes,No,No,No,No,NA,NA,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,1
+37,Female,Canada,NA,Yes,Yes,Rarely,1to5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,NA,Yes,1
+34,Female,United Kingdom,NA,No,Yes,Often,26to100,Yes,No,Yes,Yes,No,Yes,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,NA,No,1
+28,Male,United States,NY,No,Yes,Often,100to500,No,Yes,NA,Not sure,No,NA,NA,NA,Maybe,No,Some of them,Some of them,No,Yes,NA,No,1
+27,Male,Canada,NA,No,No,Never,26to100,No,Yes,Yes,Not sure,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,0
+29,Male,United Kingdom,NA,No,No,Sometimes,6to26,Yes,Yes,No,No,No,No,NA,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,1
+39,Female,United Kingdom,NA,No,Yes,Rarely,500to1000,Yes,Yes,NA,Not sure,No,No,NA,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,0
+28,Male,United Kingdom,NA,No,No,Often,6to26,No,Yes,No,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,0
+23,Male,United States,PA,No,Yes,Sometimes,26to100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,NA,No,0
+38,Male,United Kingdom,NA,No,No,NA,1to5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+19,Male,United Kingdom,NA,No,No,NA,6to26,No,Yes,Yes,No,No,Yes,NA,Very easy,No,No,Yes,Yes,No,No,Yes,No,0
+30,Female,United States,IL,No,Yes,Sometimes,26to100,No,Yes,Yes,Yes,Yes,NA,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,1
+28,Male,United Kingdom,NA,Yes,No,NA,1to5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,0
+20,Male,India,NA,No,No,Sometimes,26to100,No,Yes,NA,No,No,No,NA,NA,Yes,No,No,No,No,Maybe,Yes,No,1
+35,Male,United Kingdom,NA,Yes,No,Sometimes,1to5,No,Yes,NA,Not sure,No,NA,NA,Somewhat easy,No,No,Some of them,Yes,No,No,NA,No,0
+39,Male,United States,MN,No,No,Rarely,100to500,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,NA,No,1
+31,Female,United States,TX,No,Yes,Never,MoreThan1000,No,No,Yes,Not sure,No,NA,NA,NA,Yes,Yes,No,No,No,No,NA,No,0
+32,Male,United Kingdom,NA,No,No,Rarely,500to1000,No,Yes,No,No,No,No,NA,NA,Yes,No,No,No,No,No,NA,No,0
+27,Male,Sweden,NA,No,No,NA,6to26,No,Yes,No,No,No,No,NA,NA,No,No,No,No,No,No,NA,No,0
+25,Male,United States,PA,No,Yes,Often,6to26,Yes,Yes,Yes,Yes,No,NA,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,NA,No,1
+42,Male,United States,IN,No,Yes,Sometimes,6to26,Yes,Yes,NA,No,No,NA,NA,NA,Maybe,No,Some of them,Yes,No,Maybe,NA,No,1
+34,Male,United States,PA,No,Yes,Often,100to500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,NA,No,1

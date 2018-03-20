@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "dnn/hiddenlayer_0/kernel"
+  metadata_path: "metadata.tsv"
+}
